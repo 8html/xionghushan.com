@@ -64,15 +64,20 @@ module.exports = function(grunt) {
     assemble: {
       options: {
         pkg: '<%= pkg %>',
-        plugins: [ 'assemble-permalink' ],
-        helpers: [ 'handlebars-helper-prettify', 'helpers/*.js' ],
+        plugins: [ 'assemble-permalink', 'helpers/trim.js', 'helpers/all_pages.js' ],
+        helpers: [ 'handlebars-helper-prettify', 'helpers/helpers.js' ],
         layoutdir: 'layouts',
         layout: 'default.hbs',
         production: false
       },
       site: {
         files: {
-          'site/': [ 'pages/*.hbs' ]
+          'site/': [ 'pages/*.hbs', '!pages/~*.hbs' ]
+        }
+      },
+      sitemap: {
+        files: {
+          'site/': [ 'pages/~sitemap.hbs' ]
         }
       }
     },
@@ -92,7 +97,7 @@ module.exports = function(grunt) {
         files: [ 'Gruntfile.js' ]
       },
       hbs: {
-        files: [ 'layouts/*.hbs', 'pages/*.hbs' ],
+        files: [ 'layouts/*.hbs', 'pages/*.hbs', 'helpers/*' ],
         tasks: [ 'assemble' ]
       }
     }

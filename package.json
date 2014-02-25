@@ -1,5 +1,6 @@
 {
   "private": true,
+  "production_url": "http://www.xionghushan.com",
   "name": "xionghushan.com",
   "NAME": "熊虎山",
   "version": "0.0.0",
