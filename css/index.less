@@ -3,3 +3,42 @@
 body {
   background: #E8E7E3 url(images/bg.jpg) repeat;
 }
+
+.header {
+  background: #000 url(images/header.jpg) repeat-x;
+  height: 138px;
+}
+
+.container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hr-bg {
+  background: url(images/hr.png) no-repeat center bottom;
+}
+
+.menu-container {
+  .menu {
+    @height: 50px;
+    height: @height;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    a {
+      float: left;
+      display: block;
+      width: (100% / 6);
+      height: @height;
+      color: #333;
+      text-align: center;
+      line-height: @height;
+      text-decoration: none;
+      font-size: 16px;
+      &:hover {
+        color: #8C5B16;
+      }
+    }
+  }
+}
