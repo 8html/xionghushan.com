@@ -16,6 +16,11 @@ module.exports = function(grunt) {
         files: {
           'site/assets/': [ 'css/images/*' ]
         }
+      },
+      images: {
+        files: {
+          'site/': [ 'images/*' ]
+        }
       }
     },
     clean: {
@@ -105,6 +110,10 @@ module.exports = function(grunt) {
       hbs: {
         files: [ 'layouts/*.hbs', 'pages/*.hbs', 'helpers/*' ],
         tasks: [ 'assemble' ]
+      },
+      images: {
+        files: [ 'images/*' ],
+        tasks: [ 'copy:images' ]
       }
     }
   });

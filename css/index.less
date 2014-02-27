@@ -1,4 +1,5 @@
 @import (less) "vendor/normalize.css";
+@import (less) "vendor/sliderkit.css";
 
 body {
   background: #E8E7E3 url(images/bg.jpg) repeat;
@@ -13,6 +14,11 @@ body {
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.hr {
+  height: 30px;
+  margin-bottom: 30px;
 }
 
 .hr-bg {
@@ -41,4 +47,31 @@ body {
       }
     }
   }
+}
+
+.home-slider {
+  width: 978px;
+  height: 446px;
+  margin: 10px auto;
+}
+.home-slider .sliderkit-nav {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+.home-slider .sliderkit-nav-clip ul li {
+  float: left;
+  margin: 0 3px 0 0;
+}
+.home-slider .sliderkit-nav-clip ul li a {
+  display: block;
+  width: 16px;
+  height: 16px;
+  color: #fff;
+  background: #888;
+}
+.home-slider .sliderkit-nav-clip ul li.sliderkit-selected a {
+  background: #fff;
+}
+.home-slider .sliderkit-nav-clip ul a:hover {
 }
