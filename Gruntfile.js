@@ -12,8 +12,10 @@ module.exports = function(grunt) {
       }
     },
     copy: {
-      no_need: {
-
+      css_images: {
+        files: {
+          'site/assets/': [ 'css/images/*' ]
+        }
       }
     },
     clean: {
@@ -86,8 +88,12 @@ module.exports = function(grunt) {
         livereload: true
       },
       css: {
-        files: [ 'css/**/*' ],
+        files: [ 'css/**/*.less', 'css/**/*.css' ],
         tasks: [ 'clean:css', 'less' ]
+      },
+      css_images: {
+        files: [ 'css/images/*' ],
+        tasks: [ 'copy:css_images' ]
       },
       js: {
         files: [ 'js/*', 'js/vendor/*' ],
