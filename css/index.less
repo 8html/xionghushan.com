@@ -5,13 +5,17 @@ body {
   background: #E8E7E3 url(images/bg.jpg) repeat;
 }
 
+.clearfix {
+  clear: both;
+}
+
 .header {
   background: #000 url(images/header.jpg) repeat-x;
   height: 138px;
 }
 
 .container {
-  max-width: 1000px;
+  max-width: 978px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -74,4 +78,36 @@ body {
   background: #fff;
 }
 .home-slider .sliderkit-nav-clip ul a:hover {
+}
+
+.col-3 {
+  .col-3-item {
+    float: left;
+    width: (100% / 3);
+    height: 250px;
+    h3 {
+      text-align: center;
+    }
+    a {
+      display: block;
+      text-align: center;
+      margin: 0 38px;
+    }
+    img {
+      padding: 4px;
+      position: relative;
+      border: 3px solid #C7C8C0;
+      background: #FFF;
+      width: 100%;
+    }
+  }
+}
+
+.line {
+  background: url(images/line.png) no-repeat center top;
+  height: 33px;
+  margin-top: -22px;
+  text-align: center;
+  padding: 7px 75px 30px;
+  color: #ACACA5;
 }
