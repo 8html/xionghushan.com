@@ -138,3 +138,52 @@ body {
   padding: 7px 75px 30px;
   color: #ACACA5;
 }
+
+.spl {
+  .spl-left {
+    float: left;
+    width: 300px;
+  }
+  .spl-right {
+    padding: 10px 10px 50px 320px;
+  }
+  .spl-bread {
+    padding: 10px 0;
+    font-size: 14px;
+  }
+  .spl-content {
+    line-height: 28px;
+    font-size: 15px;
+    p {
+      text-indent: 28px;
+    }
+  }
+  .spl-nav {
+    padding: 10px;
+    .spl-nav-header, .spl-nav-item {
+      margin: 0;
+      padding: 10px;
+      font-weight: normal;
+      font-size: 14px;
+      display: block;
+    }
+    .spl-nav-header {
+      background: #000 url(images/header.jpg) repeat-x center bottom;
+      color: #fff;
+    }
+    .spl-nav-item {
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+    a {
+      background: #C4C4BE;
+      color: #000;
+      text-decoration: none;
+      &:hover, &.active {
+        color: #000;
+        background: #ACACA5;
+        text-decoration: none;
+      }
+    }
+  }
+}

@@ -3,6 +3,25 @@ module.exports.register = function(Handlebars, options) {
     return object ? object[property] : property;
   });
 
+  Handlebars.registerHelper('str', function(object) {
+    return JSON.stringify(object);
+  });
+
+  Handlebars.registerHelper('get', function(object/* ... */) {
+    for (var i = 1; i < arguments.length - 1; i++) {
+      if (object.hasOwnProperty(arguments[i])) {
+        object = object[arguments[i]];
+      } else {
+        return 'null';
+      }
+    }
+    if (typeof(object) === 'string') {
+      return object;
+    } else {
+      return JSON.stringify(object);
+    }
+  });
+
   Handlebars.registerHelper('makeSitemapFor', function(context) {
     var options = arguments[arguments.length - 1];
     var ret = '';
