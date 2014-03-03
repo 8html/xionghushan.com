@@ -1,4 +1,18 @@
 ---
 layout: default.hbs
 ---
-{{>body}}
+<div class="half-container">
+  <div class="half">
+    <div class="half-content">
+      <div class="half-image">
+        <img src="/images/products/{{images}}">
+      </div>
+    </div>
+  </div>
+  <div class="half">
+    <div class="half-content">
+      {{>body}}
+    </div>
+  </div>
+  <div class="clearfix"></div>
+</div>

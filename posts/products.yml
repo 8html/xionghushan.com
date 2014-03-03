@@ -10,7 +10,10 @@
     images:
       - XC270-52.jpg
   content: |
-    <b>XC270-52</b>
+    <div class="product">
+      <h1>门锁系列XC270-52</h1>
+      <p>描述文字</p>
+    </div>
 
 - filename: "/products/XY256-55G/index.html"
   data:
@@ -24,4 +27,7 @@
     images:
       - XY256-55G.jpg
   content: |
-    <b>XY256-55G</b>
+    <div class="product">
+      <h1>门锁系列XY256-55G</h1>
+      <p>描述文字</p>
+    </div>
