@@ -1,0 +1,20 @@
+---
+layout: default.hbs
+permalink: /news/
+---
+<div class="bread hr-bg">
+  当前位置：
+  <a href="/">首页</a>
+  &raquo;
+  <a href="/news/">五金资讯</a>
+</div>
+<div class="news-list">
+  {{#eachReverse pages}}
+    {{#startsWith src 'posts'}}
+    <div class="news-list-item">
+      <em>[{{formatDate data.date "%Y-%m-%d"}}]</em>
+      <a href="{{data.permalink}}">{{data.title}}</a>
+    </div>
+    {{/startsWith}}
+  {{/eachReverse}}
+</div>

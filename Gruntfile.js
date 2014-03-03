@@ -78,6 +78,18 @@ module.exports = function(grunt) {
         production: false,
         posts: {
           products: grunt.file.readYAML('posts/products.yml')
+        },
+        prettify: {
+          unformatted: [ 'a', 'sub', 'sup', 'b', 'i', 'u', 'textarea', 'pre' ]
+        }
+      },
+      news: {
+        options: {
+          layout: 'news.hbs',
+          permalink: '/news/{{ basename }}.html'
+        },
+        files: {
+          'site/': [ 'pages/~news*.hbs', 'posts/news/**/*.html' ]
         }
       },
       site: {
@@ -120,6 +132,10 @@ module.exports = function(grunt) {
       hbs: {
         files: [ 'layouts/*.hbs', 'pages/*.hbs', 'helpers/*' ],
         tasks: [ 'assemble' ]
+      },
+      news: {
+        files: [ 'posts/news/**' ],
+        tasks: [ 'assemble:news' ]
       },
       products: {
         files: [ 'posts/products.yml' ],

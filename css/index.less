@@ -139,6 +139,23 @@ body {
   color: #ACACA5;
 }
 
+.bread {
+  padding: 10px 0;
+  font-size: 14px;
+  a {
+    color: #666;
+    text-decoration: none;
+    &:hover {
+      color: #666;
+      text-decoration: underline;
+    }
+  }
+}
+
+p.text {
+  text-indent: 30px;
+}
+
 .spl {
   .spl-left {
     float: left;
@@ -147,24 +164,9 @@ body {
   .spl-right {
     padding: 10px 10px 50px 320px;
   }
-  .spl-bread {
-    padding: 10px 0;
-    font-size: 14px;
-    a {
-      color: #666;
-      text-decoration: none;
-      &:hover {
-        color: #666;
-        text-decoration: underline;
-      }
-    }
-  }
   .spl-content {
     line-height: 28px;
     font-size: 15px;
-    p.text {
-      text-indent: 28px;
-    }
   }
   .spl-nav {
     padding: 10px;
@@ -318,6 +320,49 @@ body {
   text-align: center;
   line-height: 79px;
   font-size: 14px;
+}
+
+.news-list {
+  padding: 30px 0;
+  .news-list-item {
+    max-width: 500px;
+    width: 100%;
+    margin: 10px auto;
+    font-size: 15px;
+    em {
+      font-style: normal;
+    }
+    a {
+      text-decoration: none;
+      color: #0032F8;
+      &:hover {
+        text-decoration: underline;
+        color: #0032F8;
+      }
+    }
+  }
+}
+
+.news-content {
+  max-width: 700px;
+  width: 100%;
+  margin: 30px auto 50px;
+  font-size: 15px;
+  line-height: 24px;
+  h3.title {
+    text-align: center;
+    margin-bottom: 5px;
+  }
+  em.date {
+    display: block;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 13px;
+  }
+  hr.break {
+    margin: 20px 0 30px
+  }
 }
 
 .isotope-item {
