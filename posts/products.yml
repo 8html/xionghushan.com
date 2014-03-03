@@ -1,0 +1,22 @@
+- filename: "/products/XC270-52/index.html"
+  data:
+    name: 门锁系列XC270-52
+    title: 门锁系列XC270-52
+    keywords: 门锁系列XC270-52
+    description: 门锁系列XC270-52
+    type: 门锁系列
+    images:
+      - XC270-52.jpg
+  content: |
+    <b>XC270-52</b>
+- filename: "/products/XY256-55G/index.html"
+  data:
+    name: 门锁系列XY256-55G
+    title: 门锁系列XY256-55G
+    keywords: 门锁系列XY256-55G
+    description: 门锁系列XY256-55G
+    type: 门锁系列
+    images:
+      - XY256-55G.jpg
+  content: |
+    <b>XY256-55G</b>

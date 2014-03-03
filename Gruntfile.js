@@ -19,7 +19,7 @@ module.exports = function(grunt) {
       },
       images: {
         files: {
-          'site/': [ 'images/*' ]
+          'site/': [ 'images/**' ]
         }
       }
     },
@@ -75,12 +75,22 @@ module.exports = function(grunt) {
         helpers: [ 'handlebars-helper-prettify', 'helpers/helpers.js' ],
         layoutdir: 'layouts',
         layout: 'default.hbs',
-        production: false
+        production: false,
+        posts: {
+          products: grunt.file.readYAML('posts/products.yml')
+        }
       },
       site: {
         files: {
           'site/': [ 'pages/*.hbs', '!pages/~*.hbs' ]
         }
+      },
+      products: {
+        options: {
+          layout: 'product.hbs',
+          pages: '<%= assemble.options.posts.products %>'
+        },
+        files: { 'site/': [] }
       },
       sitemap: {
         files: {
@@ -111,8 +121,12 @@ module.exports = function(grunt) {
         files: [ 'layouts/*.hbs', 'pages/*.hbs', 'helpers/*' ],
         tasks: [ 'assemble' ]
       },
+      products: {
+        files: [ 'posts/products.yml' ],
+        tasks: [ 'assemble' ]
+      },
       images: {
-        files: [ 'images/*' ],
+        files: [ 'images/**' ],
         tasks: [ 'copy:images' ]
       }
     }

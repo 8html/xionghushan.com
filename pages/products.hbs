@@ -1,0 +1,15 @@
+---
+layout: default.hbs
+permalink: /products/
+---
+<div id="finder" class="finder">
+  {{#eachIndex posts.products}}
+    <div class="item">
+      <a href="{{item.filename}}">
+        <img src="/images/products/{{get item.data.images 0}}">
+        <div class="item_title">{{item.data.title}}</div>
+      </a>
+    </div>
+  {{/eachIndex}}
+  <div class="clearfix"></div>
+</div>
