@@ -2,9 +2,29 @@
 layout: default.hbs
 permalink: /products/
 ---
+<div class="panel-container" id="finder-filter">
+  <div class="panel">
+    <h3>类型：<span class="value">不限</span></h3>
+    <div class="content">
+      <a class="ficon icon-blank active" data-filter="" href="#">不限</a>
+      <a class="ficon icon-blank" data-filter=".类型1" href="#">类型1</a>
+      <a class="ficon icon-blank" data-filter=".类型2" href="#">类型2</a>
+      <div class="clear"></div>
+    </div>
+  </div>
+  <div class="panel">
+    <h3>颜色：<span class="value">不限</span></h3>
+    <div class="content">
+      <a class="ficon icon-blank active" data-filter="" href="#">不限</a>
+      <a class="ficon icon-blank" data-filter=".颜色1" href="#">颜色1</a>
+      <a class="ficon icon-blank" data-filter=".颜色2" href="#">颜色2</a>
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>
 <div id="finder" class="finder">
   {{#eachIndex posts.products}}
-    <div class="item">
+    <div class="item {{join item.data.filter ' '}}">
       <a href="{{item.filename}}">
         <img src="/images/products/{{get item.data.images 0}}">
         <div class="item_title">{{item.data.title}}</div>
