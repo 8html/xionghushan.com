@@ -22,6 +22,25 @@ module.exports.register = function(Handlebars, options) {
     }
   });
 
+  Handlebars.registerHelper('makeBreadFor', function(nav) {
+    var ret = [''];
+    for (var section in nav) {
+      var first = null;
+      for (var item in nav[section]) {
+        if (first === null) {
+          first = nav[section][item];
+          ret.push('<a href="' + first + '">' + section + '</a>');
+        }
+        if (this.permalink === nav[section][item]) {
+          ret.push('<a href="' + nav[section][item] + '">' + item + '</a>');
+          break;
+        }
+      }
+      break;
+    }
+    return ret.join('\n&raquo;\n');
+  });
+
   Handlebars.registerHelper('makeSitemapFor', function(context) {
     var options = arguments[arguments.length - 1];
     var ret = '';
