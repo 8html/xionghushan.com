@@ -1,4 +1,17 @@
 $(function() {
+  function makeBottomFooter() {
+    var totalTopHeight = 0;
+    $('.height-top').each(function(){
+      totalTopHeight += $(this).outerHeight();
+    });
+    var totalBottomHeight = 0;
+    $('.height-bottom').each(function(){
+      totalBottomHeight += $(this).outerHeight();
+    });
+    $('#height-padding').height($(window).height() - totalTopHeight -
+      totalBottomHeight);
+  }
+  makeBottomFooter();
   $('.home-slider').sliderkit({
     auto: true,
     circular: true,
@@ -39,4 +52,5 @@ $(function() {
     verticalnav: true,
     verticalslide: true
   });
+  makeBottomFooter();
 });
