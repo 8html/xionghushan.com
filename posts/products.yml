@@ -9,6 +9,11 @@
       - 颜色1
     images:
       - XC270-52.jpg
+    recommendations:
+      - XC270-52
+      - XY256-55G
+      - XC270-52
+      - XY256-55G
   content: |
     <div class="product">
       <h1>门锁系列XC270-52</h1>
@@ -26,6 +31,8 @@
       - 颜色2
     images:
       - XY256-55G.jpg
+    recommendations:
+      - XC270-52
   content: |
     <div class="product">
       <h1>门锁系列XY256-55G</h1>

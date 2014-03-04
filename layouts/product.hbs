@@ -9,7 +9,7 @@ layout: default.hbs
   &raquo;
   <a href="{{permalink}}">{{title}}</a>
 </div>
-<div class="half-container">
+<div class="product-container half-container">
   <div class="half">
     <div class="half-content">
       <div class="half-image">
@@ -23,4 +23,18 @@ layout: default.hbs
     </div>
   </div>
   <div class="clearfix"></div>
+  {{#if recommendations}}
+    <div class="recommendations items">
+      <div class="recomm-head hr-bg">产品推荐</div>
+      {{#eachRecommendation recommendations}}
+        <div class="item">
+          <a href="{{item.filename}}">
+            <img src="/images/products/{{item.data.images.[0]}}">
+            <div class="item_title">{{item.data.title}}</div>
+          </a>
+        </div>
+      {{/eachRecommendation}}
+      <div class="clearfix"></div>
+    </div>
+  {{/if}}
 </div>

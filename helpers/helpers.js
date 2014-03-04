@@ -29,6 +29,30 @@ module.exports.register = function(Handlebars, options) {
     }
   });
 
+  Handlebars.registerHelper('eachRecommendation', function(array, options) {
+    var i;
+    var len;
+    var result = '';
+    var index;
+    var products = this.posts.products;
+    function find(name) {
+      for (var i = 0; i < products.length; i++) {
+        if (products[i].data.name.indexOf(name) !== -1) {
+          return products[i];
+        }
+      }
+      return {};
+    }
+    for (index = i = 0, len = array.length; i < len; index = ++i) {
+      var value = find(array[index]);
+      result += options.fn({
+        item: value,
+        index: index
+      });
+    }
+    return result;
+  });
+
   Handlebars.registerHelper('eachReverse', function(context) {
     var options = arguments[arguments.length - 1];
     var ret = '';
