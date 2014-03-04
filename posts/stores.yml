@@ -1,0 +1,47 @@
+- filename: "/stores/store-1/index.html"
+  data:
+    name: 福州形象店
+    address: 福州化工路南方装饰材料市场新三区9-14
+    images:
+      - 01.jpg
+  content: |
+    <p>
+      <b>经销商名称：</b><br>
+      熊虎山五金福州经销商
+    </p>
+    <p>
+      <b>经营品牌：</b><br>
+      熊虎山五金品牌
+    </p>
+    <p>
+      <b>联系电话：</b><br>
+      0591-87480056
+    </p>
+    <p>
+      <b>地址：</b><br>
+      福州化工路南方装饰材料市场新三区9-14
+    </p>
+
+- filename: "/stores/store-2/index.html"
+  data:
+    name: 上海奉贤店
+    address: 地址:上海奉贤建材市场B区BI弄3-5号
+    images:
+      - 02.jpg
+  content: |
+    <p>
+      <b>经销商名称：</b><br>
+      熊虎山五金上海经销商
+    </p>
+    <p>
+      <b>经营品牌：</b><br>
+      熊虎山五金品牌
+    </p>
+    <p>
+      <b>联系电话： </b><br>
+      021-67558697
+    </p>
+    <p>
+      <b>地址： </b><br>
+      上海奉贤建材市场B区BI弄3-5号
+    </p>

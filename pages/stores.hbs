@@ -1,0 +1,26 @@
+---
+layout: default.hbs
+permalink: /stores/
+---
+<div class="bread hr-bg">
+  当前位置：
+  <a href="/">首页</a>
+  &raquo;
+  <a href="/stores/">销售网点</a>
+</div>
+<div class="stores-list">
+  {{#eachIndex posts.stores}}
+    <div class="stores-list-item">
+      <div class="stores-image">
+        <a href="{{item.filename}}">
+          <img src="/images/stores/{{item.data.images.[0]}}">
+        </a>
+      </div>
+      <div class="stores-desc">
+        专卖店名称：<a href="{{item.filename}}">{{item.data.name}}</a><br>
+        专卖店地址：{{item.data.address}}
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  {{/eachIndex}}
+</div>

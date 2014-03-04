@@ -3,6 +3,10 @@ module.exports.register = function(Handlebars, options) {
     return object ? object[property] : property;
   });
 
+  Handlebars.registerHelper('str', function(object) {
+    return JSON.stringify(object);
+  });
+
   // override inspect
   Handlebars.registerHelper('inspect', function(object) {
     return '<textarea style="width: 100%; height: 400px; ' +

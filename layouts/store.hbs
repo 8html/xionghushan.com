@@ -1,0 +1,21 @@
+---
+layout: default.hbs
+---
+<div class="bread hr-bg">
+  当前位置：
+  <a href="/">首页</a>
+  &raquo;
+  <a href="/stores/">销售网点</a>
+  &raquo;
+  <a href="{{permalink}}">{{name}}</a>
+</div>
+<div class="stores-list">
+  <div class="stores-list-item stores-list-item-alt">
+    <div class="stores-one">
+      {{#each images}}
+        <img class="image-center" src="/images/stores/{{this}}"><br>
+      {{/each}}
+      {{>body}}
+    </div>
+  </div>
+</div>
