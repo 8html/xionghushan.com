@@ -43,6 +43,16 @@ permalink: /
 </div>
 <div class="hr hr-bg"></div>
 <div class="line">
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  <div class="sliderkit" id="bottom-news">
+    <div class="sliderkit-legend">
+      <a href="/news/">五金资讯</a>：
+    </div>
+    <div class="sliderkit-panels">
+      {{#eachReverseLimit all_news 5}}
+        <div class="sliderkit-panel">
+          <a href="{{permalink}}">{{title}}</a>
+        </div>
+      {{/eachReverseLimit}}
+    </div>
+  </div>
 </div>

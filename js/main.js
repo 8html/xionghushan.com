@@ -29,4 +29,14 @@ $(function() {
     $(this).addClass('active');
     update_filter();
   });
+  $('#bottom-news').sliderkit({
+    auto: true,
+    circular: true,
+    shownavitems: 1,
+    panelfx: "sliding",
+    panelfxspeed: 400,
+    mousewheel: false,
+    verticalnav: true,
+    verticalslide: true
+  });
 });
