@@ -17,8 +17,9 @@ module.exports.register = function(Handlebars, options) {
   Handlebars.registerHelper('navLinkTo', function(href) {
     var o = 'href="' + href + '"';
     var v = this.permalink.split('/')[1];
+    var h = href.replace(/\//g, '');
     if ((!v && this.permalink === href) ||
-      (v && v === href.replace(/\//g, ''))) {
+      (v && (v === h || h === this.belongsto))) {
       o += ' class="active"';
     }
     return o;
