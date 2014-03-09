@@ -15,6 +15,10 @@ body {
   height: 98px;
 }
 
+.relative {
+  position: relative;
+}
+
 .logo {
   display: block;
   @ratio: (709 / 200);
@@ -24,12 +28,19 @@ body {
   height: @height;
   position: absolute;
   top: 10px;
-  left: 29%;
-  margin-left: (@width / -2);
+  left: 130px;
   img {
     width: 100%;
     height: 100%;
   }
+}
+
+.header-tel {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  font-size: 14px;
+  color: #FFF;
 }
 
 .footer {
@@ -122,18 +133,25 @@ background-position: 0 0;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    a {
+    .menu-item {
       float: left;
       display: block;
       width: (100% / 7);
       height: @height;
+    }
+    a {
+      display: block;
       color: #333;
-      text-align: center;
-      line-height: @height;
       text-decoration: none;
       font-size: 16px;
-      &:hover {
-        color: #8C5B16;
+      padding: 9px;
+      margin: 6px;
+      text-align: center;
+      &:hover, &.active {
+        color: #6B4500;
+        background: #F5F5F5;
+        border-radius: 4px;
+        box-shadow: inset 0 0 3px 0 #3D3D3D;
       }
     }
   }

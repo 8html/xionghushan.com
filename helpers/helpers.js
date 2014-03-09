@@ -14,6 +14,16 @@ module.exports.register = function(Handlebars, options) {
       '</textarea>';
   });
 
+  Handlebars.registerHelper('navLinkTo', function(href) {
+    var o = 'href="' + href + '"';
+    var v = this.permalink.split('/')[1];
+    if ((!v && this.permalink === href) ||
+      (v && v === href.replace(/\//g, ''))) {
+      o += ' class="active"';
+    }
+    return o;
+  });
+
   Handlebars.registerHelper('get', function(object/* ... */) {
     for (var i = 1; i < arguments.length - 1; i++) {
       if (object.hasOwnProperty(arguments[i])) {
@@ -89,7 +99,6 @@ module.exports.register = function(Handlebars, options) {
   Handlebars.registerHelper('ifHaveCategory',
     function(currentCategory, content) {
     var category = this.data.category;
-    console.log(currentCategory)
     if ((!currentCategory && category) || (currentCategory && currentCategory === category)) {
       return content.fn(this);
     } else {
