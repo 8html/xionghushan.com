@@ -53,4 +53,14 @@ $(function() {
     verticalslide: true
   });
   makeBottomFooter();
+  $('.social-media').magnificPopup({
+    type: "image",
+    zoom: {
+      enabled: true,
+      duration: 300,
+      opener: function(element) {
+        return element;
+      }
+    }
+  });
 });

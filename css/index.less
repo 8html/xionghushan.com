@@ -1,5 +1,6 @@
 @import (less) "vendor/normalize.css";
 @import (less) "vendor/sliderkit.css";
+@import (less) "vendor/magnific-popup.css";
 
 body {
   background: #E8E7E3 url(images/bg.jpg) repeat;
@@ -35,7 +36,7 @@ body {
   height: 80px;
   overflow: hidden;
   .footer-copy {
-    text-align: center;
+    text-align: left;
     padding: 25px 10px;
     color: #FFF;
     font-size: 12px;
@@ -48,6 +49,44 @@ body {
       }
     }
   }
+}
+
+.footer-right {
+  float: right;
+  margin: 25px 10px 0 0;
+}
+
+.lang {
+  margin: 0 2px;
+  float: right;
+  display: block;
+  width: 34px;
+  height: 34px;
+  background: url(/images/lang.png) no-repeat 0 0;
+  text-indent: -9999px;
+  text-align: left;
+}
+
+.lang-en {
+background-position: -40px 0;
+}
+
+.lang-zh {
+background-position: 0 0;
+}
+
+.lang-weixin {
+  background-position: 8px -37px;
+  width: 49px;
+  height: 32px;
+  border-left: 1px solid #CCC;
+  margin-left: 8px;
+}
+
+.lang-weibo {
+  background-position: -45px -37px;
+  width: 42px;
+  height: 32px;
 }
 
 .main {
@@ -135,7 +174,8 @@ body {
     a {
       display: block;
       text-align: center;
-      margin: 0 38px 0 31px; // 31 = 38 - 4 - 3
+      @marginR: 30px;
+      margin: 0 @marginR 0 (@marginR - 4 - 3); // 31 = 38 - 4 - 3
     }
     img {
       padding: 4px;
