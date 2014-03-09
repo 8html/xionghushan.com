@@ -76,6 +76,27 @@ module.exports.register = function(Handlebars, options) {
     }
   });
 
+  Handlebars.registerHelper('ifInCategory', function(content) {
+    var currentCategory = this.permalink.split('/')[2];
+    if (currentCategory) {
+      this.currentCategory = currentCategory;
+      return content.fn(this);
+    } else {
+      return content.inverse(this);
+    }
+  });
+
+  Handlebars.registerHelper('ifHaveCategory',
+    function(currentCategory, content) {
+    var category = this.data.category;
+    console.log(currentCategory)
+    if ((!currentCategory && category) || (currentCategory && currentCategory === category)) {
+      return content.fn(this);
+    } else {
+      return content.inverse(this);
+    }
+  });
+
   Handlebars.registerHelper('makeBreadFor', function(nav) {
     var ret = [''];
     for (var section in nav) {

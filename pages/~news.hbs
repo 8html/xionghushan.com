@@ -1,20 +1,31 @@
 ---
 layout: default.hbs
-permalink: /news/
+categoryMap:
+  company: 企业资讯
+  industry: 行业资讯
+permalink:
+  - /news/
+  - /news/industry/
+  - /news/company/
 ---
 <div class="bread hr-bg">
   当前位置：
   <a href="/">首页</a>
   &raquo;
   <a href="/news/">五金资讯</a>
+  {{#ifInCategory}}
+    &raquo;
+    <a href="{{permalink}}">{{get categoryMap currentCategory}}</a>
+  {{/ifInCategory}}
 </div>
 <div class="news-list">
   {{#eachReverse pages}}
-    {{#startsWith src 'posts'}}
+    {{#ifHaveCategory ../currentCategory}}
     <div class="news-list-item">
       <em>[{{formatDate data.date "%Y-%m-%d"}}]</em>
+      <b>[<a href="/news/{{data.category}}">{{get ../../categoryMap data.category}}</a>]</b>
       <a href="{{data.permalink}}">{{data.title}}</a>
     </div>
-    {{/startsWith}}
+    {{/ifHaveCategory}}
   {{/eachReverse}}
 </div>

@@ -1,11 +1,16 @@
 ---
 layout: default.hbs
+categoryMap:
+  company: 企业资讯
+  industry: 行业资讯
 ---
 <div class="bread hr-bg">
   当前位置：
   <a href="/">首页</a>
   &raquo;
   <a href="/news/">五金资讯</a>
+  &raquo;
+  <a href="/news/{{category}}">{{get categoryMap category}}</a>
   &raquo;
   <a href="{{permalink}}">{{title}}</a>
 </div>
