@@ -87,8 +87,16 @@ module.exports.register = function(Handlebars, options) {
     }
   });
 
-  Handlebars.registerHelper('ifInCategory', function(content) {
-    var currentCategory = this.permalink.split('/')[2];
+  Handlebars.registerHelper('ifInCategory', function() {
+    var permalink, content;
+    if (arguments.length === 2) {
+      permalink = arguments[0];
+      content = arguments[1];
+    } else {
+      permalink = this.permalink;
+      content = arguments[0];
+    }
+    var currentCategory = permalink.split('/')[2];
     if (currentCategory) {
       this.currentCategory = currentCategory;
       return content.fn(this);

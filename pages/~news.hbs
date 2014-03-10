@@ -8,24 +8,38 @@ permalink:
   - /news/industry/
   - /news/company/
 ---
-<div class="bread hr-bg">
-  当前位置：
-  <a href="/">首页</a>
-  &raquo;
-  <a href="/news/">五金资讯</a>
-  {{#ifInCategory}}
-    &raquo;
-    <a href="{{permalink}}">{{get categoryMap currentCategory}}</a>
-  {{/ifInCategory}}
-</div>
-<div class="news-list">
-  {{#eachReverse pages}}
-    {{#ifHaveCategory ../currentCategory}}
-    <div class="news-list-item">
-      <em>[{{formatDate data.date "%Y-%m-%d"}}]</em>
-      <b>[<a href="/news/{{data.category}}">{{get ../../categoryMap data.category}}</a>]</b>
-      <a href="{{data.permalink}}">{{data.title}}</a>
+<div class="spl">
+  <div class="spl-left">
+    <div class="spl-nav">
+      <h3 class="spl-nav-header">五金资讯</h3>
+      {{#eachProperty categoryMap}}
+        <a class="spl-nav-item{{#ifInCategory ../permalink}}{{#is currentCategory key}} active{{/is}}{{/ifInCategory}}" href="/news/{{key}}/">{{get value}}</a>
+      {{/eachProperty}}
     </div>
-    {{/ifHaveCategory}}
-  {{/eachReverse}}
+  </div>
+  <div class="spl-right">
+    <div class="bread hr-bg">
+      当前位置：
+      <a href="/">首页</a>
+      &raquo;
+      <a href="/news/">五金资讯</a>
+      {{#ifInCategory}}
+        &raquo;
+        <a href="{{permalink}}">{{get categoryMap currentCategory}}</a>
+      {{/ifInCategory}}
+    </div>
+    <div class="spl-content content">
+      <div class="news-list">
+        {{#eachReverse pages}}
+          {{#ifHaveCategory ../currentCategory}}
+          <div class="news-list-item">
+            <em>[{{formatDate data.date "%Y-%m-%d"}}]</em>
+            <b>[<a href="/news/{{data.category}}">{{get ../../categoryMap data.category}}</a>]</b>
+            <a href="{{data.permalink}}">{{data.title}}</a>
+          </div>
+          {{/ifHaveCategory}}
+        {{/eachReverse}}
+      </div>
+    </div>
+  </div>
 </div>
