@@ -63,4 +63,20 @@ $(function() {
       }
     }
   });
+  if (Modernizr.cssanimations) {
+    var elems = $('.spl-nav').find('h3, a');
+    elems.addClass('pageLeftBack').css({
+      opacity: 0
+    }).each(function (a) {
+      a = 100 * a + 'ms';
+      $(this).css({
+        '-webkit-animation-delay': a,
+        '-moz-animation-delay': a,
+        '-o-animation-delay': a,
+        'animation-delay': a
+      });
+    }), $(function () {
+      elems.addClass('play');
+    })
+  }
 });
