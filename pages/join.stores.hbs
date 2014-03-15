@@ -1,26 +1,28 @@
 ---
-layout: default.hbs
+layout: join.hbs
 permalink: /stores/
 ---
-<div class="bread hr-bg">
-  当前位置：
-  <a href="/">首页</a>
-  &raquo;
-  <a href="/stores/">销售网点</a>
-</div>
 <div class="stores-list">
-  {{#eachIndex posts.stores}}
-    <div class="stores-list-item">
-      <div class="stores-image">
-        <a href="{{item.filename}}">
-          <img src="/images/stores/{{item.data.images.[0]}}">
-        </a>
-      </div>
-      <div class="stores-desc">
-        专卖店名称：<a href="{{item.filename}}">{{item.data.name}}</a><br>
-        专卖店地址：{{item.data.address}}
-      </div>
-      <div class="clearfix"></div>
+  <div class="stores-list-item">
+    <div class="stores-image">
+      <img src="/images/stores/01.jpg">
     </div>
-  {{/eachIndex}}
+    <div class="stores-desc">
+      专卖店名称：福州形象店<br>
+      专卖店地址：福州化工路南方装饰材料市场新三区9-14<br>
+      联系电话：0591-87480056
+    </div>
+    <div class="clearfix"></div>
+  </div>
+  <div class="stores-list-item">
+    <div class="stores-image">
+      <img src="/images/stores/02.jpg">
+    </div>
+    <div class="stores-desc">
+      专卖店名称：上海奉贤店<br>
+      专卖店地址：上海奉贤建材市场B区BI弄3-5号<br>
+      联系电话：021-67558697
+    </div>
+    <div class="clearfix"></div>
+  </div>
 </div>

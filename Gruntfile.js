@@ -77,8 +77,7 @@ module.exports = function(grunt) {
         layout: 'default.hbs',
         production: false,
         posts: {
-          products: grunt.file.readYAML('posts/products.yml'),
-          stores: grunt.file.readYAML('posts/stores.yml')
+          products: grunt.file.readYAML('posts/products.yml')
         },
         prettify: {
           unformatted: [ 'a', 'sub', 'sup', 'b', 'i', 'u', 'textarea', 'pre' ]
@@ -102,13 +101,6 @@ module.exports = function(grunt) {
         options: {
           layout: 'product.hbs',
           pages: '<%= assemble.options.posts.products %>'
-        },
-        files: { 'site/': [] }
-      },
-      stores: {
-        options: {
-          layout: 'store.hbs',
-          pages: '<%= assemble.options.posts.stores %>'
         },
         files: { 'site/': [] }
       },
