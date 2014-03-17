@@ -17,11 +17,7 @@
       - 冷轧刚
     recommendations:
       - X4012两节导轨
-  content: |
-    <div class="product">
-      <h1>门锁系列XC270-52</h1>
-      <p>描述文字</p>
-    </div>
+
 
 - filename: "/products/x4605.html"
   data:
@@ -42,11 +38,6 @@
       - 冷轧刚
     recommendations:
       - X4605三节导轨
-  content: |
-    <div class="product">
-      <h1>门锁系列XC270-52</h1>
-      <p>描述文字</p>
-    </div>
 
 
 - filename: "/products/x5430ab.html"
@@ -65,11 +56,7 @@
       - 不锈钢
     recommendations:
       - X5430AB青古铜合页
-  content: |
-    <div class="product">
-      <h1>门锁系列XC270-52</h1>
-      <p>描述文字</p>
-    </div>
+
 
 - filename: "/products/x5430ac.html"
   data:
@@ -87,11 +74,7 @@
       - 不锈钢
     recommendations:
       - X5430AB青古铜合页
-  content: |
-    <div class="product">
-      <h1>门锁系列XC270-52</h1>
-      <p>描述文字</p>
-    </div>
+
 
 - filename: "/products/x5430t.html"
   data:
@@ -112,8 +95,269 @@
       - 纯铜
     recommendations:
       - X4012两节导轨
-  content: |
-    <div class="product">
-      <h1>门锁系列XC270-52</h1>
-      <p>描述文字</p>
-    </div>
+
+
+- filename: "/products/x6311.html"
+  data:
+    name: X6311钢拉丝门吸
+    title: X6311钢拉丝门吸
+    keywords: X6311钢拉丝门吸
+    description: X6311钢拉丝门吸
+    image: x6311
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6688.html"
+  data:
+    name: X6688不锈钢门吸
+    title: X6688不锈钢门吸
+    keywords: X6688不锈钢门吸
+    description: X6688不锈钢门吸
+    image: x6688
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb251-243a.html"
+  data:
+    name: XB251-243A枪间金门锁
+    title: XB251-243A枪间金门锁
+    keywords: XB251-243A枪间金门锁
+    description: XB251-243A枪间金门锁
+    image: xb251-243a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8128.html"
+  data:
+    name: XM8128地弹簧
+    title: XM8128地弹簧
+    keywords: XM8128地弹簧
+    description: XM8128地弹簧
+    image: xm8128
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8148.html"
+  data:
+    name: XM8148地弹簧
+    title: XM8148地弹簧
+    keywords: XM8148地弹簧
+    description: XM8148地弹簧
+    image: xm8148
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8153.html"
+  data:
+    name: XM8153定位闭门器
+    title: XM8153定位闭门器
+    keywords: XM8153定位闭门器
+    description: XM8153定位闭门器
+    image: xm8153
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x8168.html"
+  data:
+    name: XM8168地弹簧
+    title: XM8168地弹簧
+    keywords: XM8168地弹簧
+    description: XM8168地弹簧
+    image: xm8168
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8173.html"
+  data:
+    name: XM8173定位闭门器
+    title: XM8173定位闭门器
+    keywords: XM8173定位闭门器
+    description: XM8173定位闭门器
+    image: xm8173
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8180.html"
+  data:
+    name: XM8180地弹簧
+    title: XM8180地弹簧
+    keywords: XM8180地弹簧
+    description: XM8180地弹簧
+    image: xm8180
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9098.html"
+  data:
+    name: XW9098化妆镜
+    title: XW9098化妆镜
+    keywords: XW9098化妆镜
+    description: XW9098化妆镜
+    image: xw9098
+    filter:
+      - 卫浴五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xy208-99a.html"
+  data:
+    name: XY208-99A枪间金门锁
+    title: XY208-99A枪间金门锁
+    keywords: XY208-99A枪间金门锁
+    description: XY208-99A枪间金门锁
+    image: xy208-99a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xy208-99g.html"
+  data:
+    name: XY208-99G钢拉丝门锁
+    title: XY208-99G钢拉丝门锁
+    keywords: XY208-99G钢拉丝门锁
+    description: XY208-99G钢拉丝门锁
+    image: xy208-99g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xy239-67h.html"
+  data:
+    name: XY239-67H金拉丝门锁
+    title: XY239-67H金拉丝门锁
+    keywords: XY239-67H金拉丝门锁
+    description: XY239-67H金拉丝门锁
+    image: xy239-67h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xy256-55g.html"
+  data:
+    name: XY256-55G钢拉丝门锁
+    title: XY256-55G钢拉丝门锁
+    keywords: XY256-55G钢拉丝门锁
+    description: XY256-55G钢拉丝门锁
+    image: xy256-55g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
