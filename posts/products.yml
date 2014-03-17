@@ -65,9 +65,58 @@
       - 中式仿古
       - 不锈钢
     images:
-      - x5430.jpg
+      - x5430ab.jpg
     recommendations:
       - X5430AB青古铜合页
+  content: |
+    <div class="product">
+      <h1>门锁系列XC270-52</h1>
+      <p>描述文字</p>
+    </div>
+
+- filename: "/products/x5430ac.html"
+  data:
+    name: X5430AC红古铜合页
+    title: X5430AC红古铜合页
+    keywords: X5430AC红古铜合页
+    description: X5430AC红古铜合页
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 中式仿古
+      - 不锈钢
+    images:
+      - x5430ac.jpg
+    recommendations:
+      - X5430AB青古铜合页
+  content: |
+    <div class="product">
+      <h1>门锁系列XC270-52</h1>
+      <p>描述文字</p>
+    </div>
+
+- filename: "/products/x5430t.html"
+  data:
+    name: X5430T铜合页
+    title: X5430T铜合页
+    keywords: X5430T铜合页
+    description: X5430T铜合页
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 中式仿古
+      - 纯铜
+    images:
+      - x5430t.jpg
+    recommendations:
+      - X4012两节导轨
   content: |
     <div class="product">
       <h1>门锁系列XC270-52</h1>
