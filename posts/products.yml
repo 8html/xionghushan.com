@@ -1,40 +1,75 @@
-- filename: "/products/xc270-52.html"
+- filename: "/products/x4012.html"
   data:
-    name: 门锁系列XC270-52
-    title: 门锁系列XC270-52
-    keywords: 门锁系列XC270-52
-    description: 门锁系列XC270-52
+    name: X4012两节导轨
+    title: X4012两节导轨
+    keywords: X4012两节导轨
+    description: X4012两节导轨
     filter:
-      - 类型2
-      - 颜色1
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
     images:
-      - XC270-52.jpg
+      - x4012.jpg
     recommendations:
-      - XC270-52
-      - XY256-55G
-      - XC270-52
-      - XY256-55G
+      - X4012两节导轨
   content: |
     <div class="product">
       <h1>门锁系列XC270-52</h1>
       <p>描述文字</p>
     </div>
 
-- filename: "/products/xy256-55g.html"
+- filename: "/products/x4605.html"
   data:
-    name: 门锁系列XY256-55G
-    title: 门锁系列XY256-55G
-    keywords: 门锁系列XY256-55G
-    description: 门锁系列XY256-55G
+    name: X4605三节导轨
+    title: X4605三节导轨
+    keywords: X4605三节导轨
+    description: X4605三节导轨
     filter:
-      - 类型1
-      - 颜色2
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
     images:
-      - XY256-55G.jpg
+      - x4605.jpg
     recommendations:
-      - XC270-52
+      - X4605三节导轨
   content: |
     <div class="product">
-      <h1>门锁系列XY256-55G</h1>
+      <h1>门锁系列XC270-52</h1>
+      <p>描述文字</p>
+    </div>
+
+
+- filename: "/products/x5430ab.html"
+  data:
+    name: X5430AB青古铜合页
+    title: X5430AB青古铜合页
+    keywords: X5430AB青古铜合页
+    description: X5430AB青古铜合页
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 中式仿古
+      - 不锈钢
+    images:
+      - x5430.jpg
+    recommendations:
+      - X5430AB青古铜合页
+  content: |
+    <div class="product">
+      <h1>门锁系列XC270-52</h1>
       <p>描述文字</p>
     </div>
