@@ -281,10 +281,48 @@ p.text {
   .half-content {
     padding: 10px;
   }
+}
+
+.productshow {
+  position: relative;
+  @height: 400px;
+  height: @height;
+  overflow: hidden;
   .half-image {
     img {
-      max-width: 100%;
+      max-width: 90%;
+      max-height: (@height - 50);
     }
+  }
+  .half {
+    float: none;
+    position: absolute;
+    height: @height;
+    display: table;
+  }
+  .half-left {
+    top: 0;
+    left: 0;
+    .half-image {
+      padding-left: 15px;
+    }
+    .half-content {
+      text-align: center;
+    }
+  }
+  .half-right {
+    top: 0;
+    right: 0;
+    .half-image {
+      padding-right: 15px;
+    }
+    .half-content {
+      text-align: center;
+    }
+  }
+  .half-content {
+    display: table-cell;
+    vertical-align: middle;
   }
 }
 

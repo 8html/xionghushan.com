@@ -10,32 +10,34 @@ belongsto: products
   &raquo;
   <a href="{{permalink}}">{{title}}</a>
 </div>
-<div class="product-container half-container">
-  <div class="half">
+<div class="product-container half-container productshow">
+  <div class="half half-left">
     <div class="half-content">
       <div class="half-image">
-        <img src="/images/products/{{images}}">
+        <img src="/images/products/{{image}}-left.jpg">
       </div>
     </div>
   </div>
-  <div class="half">
+  <div class="half half-right">
     <div class="half-content">
-      {{>body}}
+      <div class="half-image">
+        <img src="/images/products/{{image}}-right.png">
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
-  {{#if recommendations}}
-    <div class="recommendations items">
-      <div class="recomm-head hr-bg">产品推荐</div>
-      {{#eachRecommendation recommendations}}
-        <div class="item">
-          <a href="{{item.filename}}">
-            <img src="/images/products/{{item.data.images.[0]}}">
-            <div class="item_title">{{item.data.title}}</div>
-          </a>
-        </div>
-      {{/eachRecommendation}}
-      <div class="clearfix"></div>
-    </div>
-  {{/if}}
 </div>
+{{#if recommendations}}
+  <div class="recommendations items">
+    <div class="recomm-head hr-bg">产品推荐</div>
+    {{#eachRecommendation recommendations}}
+      <div class="item">
+        <a href="{{item.filename}}">
+          <img src="/images/products/{{item.data.image}}.jpg">
+          <div class="item_title">{{item.data.title}}</div>
+        </a>
+      </div>
+    {{/eachRecommendation}}
+    <div class="clearfix"></div>
+  </div>
+{{/if}}

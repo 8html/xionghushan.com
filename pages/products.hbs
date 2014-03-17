@@ -61,7 +61,7 @@ permalink: /products/
   {{#eachIndex posts.products}}
     <div class="item {{join item.data.filter ' '}}">
       <a href="{{item.filename}}">
-        <img src="/images/products/{{get item.data.images 0}}">
+        <img src="/images/products/{{item.data.image}}.jpg">
         <div class="item_title">{{item.data.title}}</div>
       </a>
     </div>

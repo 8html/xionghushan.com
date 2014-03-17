@@ -79,4 +79,10 @@ $(function() {
       elems.addClass('play');
     })
   }
+  var left = $('.productshow .half-left');
+  var right = $('.productshow .half-right');
+  left.css({ left: '-30%', opacity: 0 });
+  right.css({ right: '-30%', opacity: 0 });
+  left.animate({ left: 0, opacity: 1 }, 500);
+  right.delay(300).animate({ right: 0, opacity: 1 }, 500);
 });
