@@ -438,6 +438,18 @@ p.text {
   }
 }
 
+.xpanel {
+  .panel {
+    margin: 15px 10px 10px;
+    display: block;
+  }
+  p {
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+  }
+}
+
 .ficon {
   display: block;
   width: 65px;
@@ -677,6 +689,46 @@ p.text {
   -ms-animation: none;
   -o-animation: none;
   animation: none;
+}
+
+.pageTop {
+  -webkit-animation: pageTop 400ms ease both;
+  -webkit-animation-play-state: paused;
+  -webkit-transform-origin: 50% 0%;
+  -moz-animation: pageTop 400ms ease both;
+  -moz-animation-play-state: paused;
+  -moz-transform-origin: 50% 0%;
+  -o-animation: pageTop 400ms ease both;
+  -o-animation-play-state: paused;
+  -o-transform-origin: 50% 0%;
+  animation: pageTop 400ms ease both;
+  animation-play-state: paused;
+  transform-origin: 50% 0%;
+}
+.no-js {
+  .pageTop {
+    -webkit-animation: none;
+    -moz-animation: none;
+    -ms-animation: none;
+    -o-animation: none;
+    animation: none;
+  }
+}
+@-webkit-keyframes pageTop {
+0% { opacity: 0; -webkit-transform: perspective(400px) rotateX(90deg); }
+100% { opacity: 1; -webkit-transform: perspective(400px) rotateX(0deg); }
+}
+@-moz-keyframes pageTop {
+0% { opacity: 0; -moz-transform: perspective(400px) rotateX(90deg); }
+100% { opacity: 1; -moz-transform: perspective(400px) rotateX(0deg); }
+}
+@-o-keyframes pageTop {
+0% { opacity: 0; -o-transform: perspective(400px) rotateX(90deg); }
+100% { opacity: 1; -o-transform: perspective(400px) rotateX(0deg); }
+}
+@keyframes pageTop {
+0% { opacity: 0; transform: perspective(400px) rotateX(90deg); }
+100% { opacity: 1; transform: perspective(400px) rotateX(0deg); }
 }
 
 .play {
