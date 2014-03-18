@@ -157,6 +157,24 @@
       - X4012两节导轨
 
 
+- filename: "/products/xb251-243e.html"
+  data:
+    name: XB251-243E青古铜门锁
+    title: XB251-243E青古铜门锁
+    keywords: XB251-243E青古铜门锁
+    description: XB251-243E青古铜门锁
+    image: xb251-243e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
 - filename: "/products/xm8128.html"
   data:
     name: XM8128地弹簧
@@ -211,7 +229,7 @@
       - X4012两节导轨
 
 
-- filename: "/products/x8168.html"
+- filename: "/products/xm8168.html"
   data:
     name: XM8168地弹簧
     title: XM8168地弹簧

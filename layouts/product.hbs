@@ -21,7 +21,7 @@ belongsto: products
   <div class="half half-right">
     <div class="half-content">
       <div class="half-image">
-        <img src="/images/products/{{image}}-right.png">
+        <img src="/images/products/{{image}}-right.png" alt="{{item.data.name}}" title="{{item.data.title}}">
       </div>
     </div>
   </div>
@@ -33,7 +33,7 @@ belongsto: products
     {{#eachRecommendation recommendations}}
       <div class="item">
         <a href="{{item.filename}}">
-          <img src="/images/products/{{item.data.image}}.jpg">
+          <img src="/images/products/{{item.data.image}}.jpg" alt="{{item.data.name}}" title="{{item.data.title}}">
           <div class="item_title">{{item.data.title}}</div>
         </a>
       </div>
