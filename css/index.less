@@ -600,6 +600,47 @@ p.text {
   font-weight: bold;
 }
 
+
+.list {
+  display: block;
+  .list-item {
+    display: inline-block;
+    width: ((100% - 5) / 3);
+    vertical-align: middle;
+    // height: 0;
+    // padding-bottom: (100% / 3);
+  }
+  .list-item-wrapper {
+    display: block;
+    padding: 5px;
+    border: 1px solid #CCC;
+    margin: 5px;
+    box-shadow: inset 0 0 1px #CCC;
+    text-decoration: none;
+    border-radius: 3px;
+    &:hover {
+      text-decoration: none;
+      box-shadow: inset 0 0 8px #ADADAD;
+      border: 1px solid #ADADAD;
+    }
+  }
+  .list-item-image {
+    // height: 0;
+    // padding-bottom: 75%;
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+  .list-item-name {
+    text-align: center;
+    font-style: normal;
+    display: block;
+    font-size: 15px;
+    padding: 5px;
+  }
+}
+
 .isotope-item {
   z-index: 2;
 }
