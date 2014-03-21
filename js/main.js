@@ -80,9 +80,36 @@ $(function() {
     })
   }
   var left = $('.productshow .half-left');
-  var right = $('.productshow .half-right');
+  var right = $('.productshow .aimg');
   left.css({ left: '-30%', opacity: 0 });
   right.css({ right: '-30%', opacity: 0 });
   left.animate({ left: 0, opacity: 1 }, 500);
   right.delay(300).animate({ right: 0, opacity: 1 }, 500);
+
+  function loop(cur) {
+    var pa = $('.pas .pa').eq(cur);
+    if (pa.length === 0) pa = $('.pas .pa').eq(0);
+    $('.pas .pa').addClass('hidden');
+    pa.removeClass('hidden');
+    var left = pa.find('.pa-left');
+    var right = pa.find('.pa-right img');
+
+    left.css({ left: '-30%', opacity: 0 });
+    left.animate({ left: 0, opacity: 1 }, 500);
+    right.each(function(a, b) {
+      var left = $(b).position().left, top = $(b).position().top;
+      left = $(b).parent().width() / 2 - $(b).width() / 2;
+      var off = 10;
+      top = ($(b).parent().height() - right.length * off)  / right.length + ($(b).height() + off) * a;
+      $(b).css({ left: left + 100, top: top, position: 'absolute', opacity: 0 });
+      $(b).delay((a+1)*200).animate({ left: left, opacity: 1 }, 300);
+    });
+
+    setTimeout(function() {
+      loop(cur+1);
+    }, 5000);
+  }
+
+  loop(0);
+
 });
