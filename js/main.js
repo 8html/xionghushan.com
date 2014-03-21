@@ -98,17 +98,31 @@ $(function() {
     pa.removeClass('hidden');
     var left = pa.find('.pa-left');
     var right = pa.find('.pa-right img');
+    rightheight = pa.find('.pa-right .pa-content').height();
 
     left.css({ left: '-30%', opacity: 0 });
     left.animate({ left: 0, opacity: 1 }, 500);
+    var topdiff = 0;
+    var wwidth = $(window).width();
     right.each(function(a, b) {
       var left = $(b).position().left, top = $(b).position().top;
       left = $(b).parent().width() / 2 - $(b).width() / 2;
       var off = 10;
       top = ($(b).parent().height() - right.length * off)  / right.length + ($(b).height() + off) * a;
+      if (a === 0 && wwidth <= 480) {
+        topdiff = top;
+      }
+      top -= topdiff;
+      var datatop = $(b).data('top');
+      if (datatop) top = datatop[wwidth] || top;
+      var obj = datatop || {};
+      obj[wwidth] = top;
+      $(b).data('top', obj);
       $(b).css({ left: left + 100, top: top, position: 'absolute', opacity: 0 });
       $(b).delay((a+1)*200).animate({ left: left, opacity: 1 }, 300);
     });
+
+    pa.find('.pa-right .pa-content').height(rightheight);
 
     setTimeout(function() {
       loop(cur+1);

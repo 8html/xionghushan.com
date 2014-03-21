@@ -182,6 +182,9 @@ background-position: 0 0;
       padding: 9px;
       margin: 6px;
       text-align: center;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
       &:hover, &.active {
         color: #6B4500;
         background: #F5F5F5;
@@ -277,6 +280,9 @@ p.text {
   .spl-content {
     line-height: 28px;
     font-size: 15px;
+    img {
+      max-width: 100%;
+    }
   }
   .spl-nav {
     padding: 10px;
@@ -372,14 +378,15 @@ p.text {
 .items {
   margin: 10px 0 50px;
   .item {
-    // width: 160px;
-    height: 180px;
+    overflow: hidden;
+    width: 180px;
+    height: 195px;
     float: left;
     padding: 5px;
     text-align: center;
     background: #FFF;
     border-radius: 4px;
-    margin: 0 10px 10px 0;
+    margin: 0 5px 5px 0;
     font-size: 13px;
     a {
       color: #666;
@@ -400,6 +407,11 @@ p.text {
       width: 150px;
       height: 150px;
       margin-bottom: 5px;
+    }
+    .item_title {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
     }
   }
 }
@@ -813,3 +825,5 @@ p.text {
   -o-animation-play-state: running;
   animation-play-state: running;
 }
+
+@import "mobile.less";
