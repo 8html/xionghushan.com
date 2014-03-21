@@ -88,7 +88,7 @@ $(function() {
 
   function loop(cur) {
     var pa = $('.pas .pa').eq(cur);
-    if (pa.length === 0) pa = $('.pas .pa').eq(0);
+    if (pa.length === 0) return loop(0);
     $('.pas .pa').addClass('hidden');
     pa.removeClass('hidden');
     var left = pa.find('.pa-left');
