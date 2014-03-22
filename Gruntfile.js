@@ -68,6 +68,7 @@ module.exports = function(grunt) {
       js: {
         files: {
           'site/assets/js/application.js': [
+            'js/tmp/vendor/fastclick.js',
             'js/vendor/jquery-*.min.js',
             'js/vendor/*.min.js',
             'js/tmp/**/*.js'

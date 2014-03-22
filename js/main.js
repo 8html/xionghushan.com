@@ -1,4 +1,5 @@
 $(function() {
+  FastClick.attach(document.body);
   function makeBottomFooter() {
     var totalTopHeight = 0;
     $('.height-top').each(function(){
