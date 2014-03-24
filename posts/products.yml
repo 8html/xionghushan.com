@@ -1,15 +1,2755 @@
-- filename: "/products/x4012.html"
+- filename: "/products/xc232-33.html"
   data:
-    name: X4012两节导轨
-    title: X4012两节导轨
-    keywords: X4012两节导轨
-    description: X4012两节导轨
-    image: x4012
+    name: XC232-33玫瑰金
+    title: XC232-33玫瑰金
+    keywords: XC232-33玫瑰金
+    description: XC232-33玫瑰金
+    image: xc232-33
     filter:
-      - 家具五金
+      - 门锁配套
       - 小区
       - 洋房
       - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xc210-55.html"
+  data:
+    name: XC210-55玫瑰金
+    title: XC210-55玫瑰金
+    keywords: XC210-55玫瑰金
+    description: XC210-55玫瑰金
+    image: xc210-55
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xc222-20.html"
+  data:
+    name: XC222-20玫瑰金
+    title: XC222-20玫瑰金
+    keywords: XC222-20玫瑰金
+    description: XC222-20玫瑰金
+    image: xc222-20
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xc224-33.html"
+  data:
+    name: XC224-33玫瑰金
+    title: XC224-33玫瑰金
+    keywords: XC224-33玫瑰金
+    description: XC224-33玫瑰金
+    image: xc224-33
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xc229-28.html"
+  data:
+    name: XC229-28玫瑰金
+    title: XC229-28玫瑰金
+    keywords: XC229-28玫瑰金
+    description: XC229-28玫瑰金
+    image: xc229-28
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xc249-96.html"
+  data:
+    name: XC249-96亮金
+    title: XC249-96亮金
+    keywords: XC249-96亮金
+    description: XC249-96亮金
+    image: xc249-96
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xc270-52.html"
+  data:
+    name: XC270-52古铜色
+    title: XC270-52古铜色
+    keywords: XC270-52古铜色
+    description: XC270-52古铜色
+    image: xc270-52
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xc278-63.html"
+  data:
+    name: XC278-63玫瑰金
+    title: XC278-63玫瑰金
+    keywords: XC278-63玫瑰金
+    description: XC278-63玫瑰金
+    image: xc278-63
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xc289-29.html"
+  data:
+    name: XC289-29纯铜门锁
+    title: XC289-29纯铜门锁
+    keywords: XC289-29纯铜门锁
+    description: XC289-29纯铜门锁
+    image: xc289-29
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xc297-85.html"
+  data:
+    name: XC297-85玫瑰金
+    title: XC297-85玫瑰金
+    keywords: XC297-85玫瑰金
+    description: XC297-85玫瑰金
+    image: xc297-85
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xc271-52.html"
+  data:
+    name: XC271-52古铜色
+    title: XC271-52古铜色
+    keywords: XC271-52古铜色
+    description: XC271-52古铜色
+    image: xc271-52
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012古铜色
+
+
+- filename: "/products/xc.html"
+  data:
+    name: XC298-85玫瑰金
+    title: XC298-85玫瑰金
+    keywords: XC298-85玫瑰金
+    description: XC298-85玫瑰金
+    image: xc298-85
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xc.html"
+  data:
+    name: XC272-52古铜色
+    title: XC72-52古铜色
+    keywords: XC72-52古铜色
+    description: XC72-52古铜色
+    image: xc72-52
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xc299-85.html"
+  data:
+    name: XC299-85玫瑰金
+    title: XC299-85玫瑰金
+    keywords: XC299-85玫瑰金
+    description: XC299-85玫瑰金
+    image: xc299-85
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xc266-88.html"
+  data:
+    name: XC266-88红古铜
+    title: XC266-88红古铜
+    keywords: XC266-88红古铜
+    description: XC266-88红古铜
+    image: xc266-88
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xm291e.html"
+  data:
+    name: XM291E(AB配置)
+    title: XM291E入户
+    keywords: XM291E入户
+    description: XM291E入户
+    image: xm291e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xm293e.html"
+  data:
+    name: XM293E(AB配置)
+    title: XM293E(AB配置)
+    keywords: XM293E(AB配置)
+    description: XM293E(AB配置)
+    image: xe293e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xm279e.html"
+  data:
+    name: XM279E(AB配置)
+    title: XM279E(AB配置)
+    keywords: XM279E(AB配置)
+    description: XM279E(AB配置)
+    image: xm279e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xm201.html"
+  data:
+    name: XM201(AA配置)
+    title: XM201(AA配置)
+    keywords: XM201(AA配置)
+    description: XM201(AA配置)
+    image: xm201
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼 
+      - 现代简约
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xm205.html"
+  data:
+    name: XM205(CC配置)
+    title: XM205(CC配置)
+    keywords: XM205(CC配置)
+    description: XM205(CC配置)
+    image: xm205
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼 
+      - 现代简约
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm297h.html"
+  data:
+    name: XM297H(AB配置)
+    title: XM297H(AB配置)
+    keywords: XM297H(AB配置)
+    description: XM297H(AB配置)
+    image: xm297h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+- filename: "/products/xm298e.html"
+  data:
+    name: XM298E(AB配置)
+    title: XM298E(AB配置)
+    keywords: XM298E(AB配置)
+    description: XM298E(AB配置)
+    image: xm298e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+- filename: "/products/xm298f.html"
+  data:
+    name: XM298F(CC配置)
+    title: XM298F(CC配置)
+    keywords: XM298F(CC配置)
+    description: XM298F(CC配置)
+    image: xm298f
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+- filename: "/products/xm299e.html"
+  data:
+    name: XM299E(AB配置)
+    title: XM299E(AB配置)
+    keywords: XM299E(AB配置)
+    description: XM299E(AB配置)
+    image: xm299e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xh207-51h.html"
+  data:
+    name: XH207-51H
+    title: XH207-51H
+    keywords: XH207-51H
+    description: XH207-51H
+    image: xh207-51h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xh223-17e.html"
+  data:
+    name: XH223-17E
+    title: XH223-17E
+    keywords: XH223-17E
+    description: XH223-17E
+    image: xh223-17e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xh255-96e.html"
+  data:
+    name: XH255-96E
+    title: XH255-96E
+    keywords: XH255-96E
+    description: XH255-96E
+    image: xh255-96e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xh260-80e.html"
+  data:
+    name: XH260-80E
+    title: XH260-80E
+    keywords: XH260-80E
+    description: XH260-80E
+    image: xh260-80e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xh294-87e.html"
+  data:
+    name: XH294-87E
+    title: XH294-87E
+    keywords: XH294-87E
+    description: XH294-87E
+    image: xh294-87e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xh295-94y.html"
+  data:
+    name: XH295-94Y
+    title: XH295-94Y
+    keywords: XH295-94Y
+    description: XH295-94Y
+    image: xh295-94y
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xh208-99g.html"
+  data:
+    name: XH208-99G
+    title: XH208-99G
+    keywords: XH208-99G
+    description: XH208-99G
+    image: xh208-99g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼 
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xh210-03g.html"
+  data:
+    name: XH210-03G
+    title: XH210-03G
+    keywords: XH210-03G
+    description: XH210-03G
+    image: xh210-03g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼 
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xh256-81h.html"
+  data:
+    name: XH256-81H
+    title: XH256-81H
+    keywords: XH256-81H
+    description: XH256-81H
+    image: xh256-81h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼 
+      - 欧式奢华
+      - 纯铜
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb251-242e.html"
+  data:
+    name: XB251-242E
+    title: XB251-242E
+    keywords: XB251-242E
+    description: XB251-242E
+    image: xb251-242e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb251-242a.html"
+  data:
+    name: XB251-242A
+    title: XB251-242A
+    keywords: XB251-242A
+    description: XB251-242A
+    image: xb251-242a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb251-242h.html"
+  data:
+    name: XB251-242H
+    title: XB251-242H
+    keywords: XB251-242H
+    description: XB251-242H
+    image: xb251-242h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/xb251-243a.html"
+  data:
+    name: XB251-243A枪间金门锁
+    title: XB251-243A枪间金门锁
+    keywords: XB251-243A枪间金门锁
+    description: XB251-243A枪间金门锁
+    image: xb251-243a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb251-243e.html"
+  data:
+    name: XB251-243E青古铜门锁
+    title: XB251-243E青古铜门锁
+    keywords: XB251-243E青古铜门锁
+    description: XB251-243E青古铜门锁
+    image: xb251-243e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb251-243h.html"
+  data:
+    name: XB251-243H
+    title: XB251-243H
+    keywords: XB251-243H
+    description: XB251-243H
+    image: xb251-243h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb228-38e.html"
+  data:
+    name: XB228-38E
+    title: XB2228-38E
+    keywords: XB228-38E
+    description: XB228-38E
+    image: xb228-38e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb235-91e.html"
+  data:
+    name: XB235-91E
+    title: XB235-91E
+    keywords: XB235-91E
+    description: XB235-91E
+    image: xb235-91e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb245-91e.html"
+  data:
+    name: XB245-91E
+    title: XB245-91E
+    keywords: XB245-91E
+    description: XB245-91E
+    image: xb245-91e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb255-96e.html"
+  data:
+    name: XB255-96E
+    title: XB255-96E
+    keywords: XB255-96E
+    description: XB255-96E
+    image: xb255-96e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb255-96h.html"
+  data:
+    name: XB255-96H
+    title: XB255-96H
+    keywords: XB255-96H
+    description: XB255-96H
+    image: xb255-96h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb255-98h.html"
+  data:
+    name: XB255-98H
+    title: XB255-98H
+    keywords: XB255-98H
+    description: XB255-98H
+    image: xb255-98h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb265-98y.html"
+  data:
+    name: XB265-98Y
+    title: XB265-98Y
+    keywords: XB265-98Y
+    description: XB265-98Y
+    image: xb265-98y
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb265-98h.html"
+  data:
+    name: XB265-98H
+    title: XB265-98H
+    keywords: XB265-98H
+    description: XB265-98H
+    image: xb265-98h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb265-96h.html"
+  data:
+    name: XB265-96H
+    title: XB265-96H
+    keywords: XB265-96H
+    description: XB265-6H
+    image: xb265-96h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb272-17a.html"
+  data:
+    name: XB272-17A
+    title: XB272-17A
+    keywords: XB272-17A
+    description: XB272-17A
+    image: xb272-17a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb273-17h.html"
+  data:
+    name: XB273-17H
+    title: XB273-17H
+    keywords: XB273-17H
+    description: XB273-17H
+    image: xb273-17h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb275-94f.html"
+  data:
+    name: XB275-94F
+    title: XB275-94F
+    keywords: XB275-94F
+    description: XB275-94F
+    image: xb275-94f
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb293-95a.html"
+  data:
+    name: XB293-95A
+    title: XB293-95A
+    keywords: XB293-95A
+    description: XB293-95A
+    image: xb293-95a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb297-51h.html"
+  data:
+    name: XB297-51H
+    title: XB297-51H
+    keywords: XB297-51H
+    description: XB297-51H
+    image: xb297-51h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb298-85e.html"
+  data:
+    name: XB298-85E
+    title: XB298-85E
+    keywords: XB298-85E
+    description: XB298-85E
+    image: xb298-85e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb205-95a.html"
+  data:
+    name: XB205-95A
+    title: XB205-95A
+    keywords: XB205-95A
+    description: XB205-95A
+    image: xb205-95a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb232-02e.html"
+  data:
+    name: XB232-02E
+    title: XB232-02E
+    keywords: XB232-02E
+    description: XB232-02E
+    image: xb232-02e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb232-02y.html"
+  data:
+    name: XB232-02Y
+    title: XB232-02Y
+    keywords: XB232-02Y
+    description: XB232-02Y
+    image: xb232-02y
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb233-08y.html"
+  data:
+    name: XB233-08Y
+    title: XB233-08Y
+    keywords: XB233-08Y
+    description: XB233-08Y
+    image: xb233-08y
+    filter:
+      - 门锁配套
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xb281-25y.html"
+  data:
+    name: XB281-25Y
+    title: XB281-25Y
+    keywords: XB281-25Y
+    description: XB281-25Y
+    image: xb281-25y
+    filter:
+      - 门锁配套
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv203-19g.html"
+  data:
+    name: XV203-19G
+    title: XV203-19G
+    keywords: XV203-19G
+    description: XV203-19G
+    image: xv203-19g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv299-81g.html"
+  data:
+    name: XV299-81G
+    title: XV299-81G
+    keywords: XV299-81G
+    description: XV299-81G
+    image: xv299-81g
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv203-02y.html"
+  data:
+    name: XV203-02Y
+    title: XV203-02Y
+    keywords: XV203-02Y
+    description: XV203-02Y
+    image: xv203-02y
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv237-41e.html"
+  data:
+    name: XV237-41E
+    title: XV237-41E
+    keywords: XV237-41E
+    description: XV237-41E
+    image: xv237-41e
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv207-51e.html"
+  data:
+    name: XV207-51E
+    title: XV207-51E
+    keywords: XV207-51E
+    description: XV207-51E
+    image: xv207-51e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv207-51w.html"
+  data:
+    name: XV207-51W
+    title: XV207-51W
+    keywords: XV207-51W
+    description: XV207-51W
+    image: xv207-51w
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv211-55w.html"
+  data:
+    name: XV211-55W
+    title: XV211-55W
+    keywords: XV211-55W
+    description: XV211-55W
+    image: xv211-55w
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv212-56e.html"
+  data:
+    name: XV212-56E
+    title: XV212-56E
+    keywords: XV212-56E
+    description: XV212-56E
+    image: xv212-56e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv218-21y.html"
+  data:
+    name: XV218-21Y
+    title: XV218-21Y
+    keywords: XV218-21Y
+    description: XV218-21Y
+    image: xv218-21y
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv218-21a.html"
+  data:
+    name: XV218-21A
+    title: XV218-21A
+    keywords: XV218-21A
+    description: XV218-21A
+    image: xv218-21a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv217-55h.html"
+  data:
+    name: XV217-55H
+    title: XV217-55H
+    keywords: XV217-55H
+    description: XV217-55H
+    image: xv217-55h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv251-242e.html"
+  data:
+    name: XV251-242E
+    title: XV251-242E
+    keywords: XV251-242E
+    description: XV251-242E
+    image: xv251-242e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv251-242e.html"
+  data:
+    name: XV251-242E
+    title: XV251-242E
+    keywords: XV251-242E
+    description: XV251-242E
+    image: xv251-242e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xv251-243y.html"
+  data:
+    name: XV251-243Y
+    title: XV251-243Y
+    keywords: XV251-243Y
+    description: XV251-243Y
+    image: xv251-243y
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xy201-03g.html"
+  data:
+    name: XY201-03G
+    title: XY201-03G
+    keywords: XY201-03G
+    description: XY201-03G
+    image: xy201-03g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xy201-03y.html"
+  data:
+    name: XY201-03Y
+    title: XY201-03Y
+    keywords: XY201-03Y
+    description: XY201-03Y
+    image: xy201-03y
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xy208-99g.html"
+  data:
+    name: XY208-99G
+    title: XY208-99G
+    keywords: XY208-99G
+    description: XY208-99G
+    image: xy208-99g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xy208-99a.html"
+  data:
+    name: XY208-99A
+    title: XY208-99A
+    keywords: XY208-99A
+    description: XY208-99A
+    image: xy208-99a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xy209-70g.html"
+  data:
+    name: XY209-70G
+    title: XY209-70G
+    keywords: XY209-70G
+    description: XY209-70G
+    image: xy209-70g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xy239-67h.html"
+  data:
+    name: XY239-67H
+    title: XY239-67H
+    keywords: XY239-67H
+    description: XY239-67H
+    image: xy239-67h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xy256-55g.html"
+  data:
+    name: XY256-55G
+    title: XY256-55G
+    keywords: XY256-55G
+    description: XY256-55G
+    image: xy256-55g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xy256-81g.html"
+  data:
+    name: XY256-81G
+    title: XY256-81G
+    keywords: XY256-81G
+    description: XY256-81G
+    image: xy256-81g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xd205-20g.html"
+  data:
+    name: XD205-20G
+    title: XD205-20G
+    keywords: XD205-20G
+    description: XD205-20G
+    image: xd205-20g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xd205-20A.html"
+  data:
+    name: XD205-20A
+    title: XD205-20A
+    keywords: XD205-20A
+    description: XD205-20A
+    image: xd205-20a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xd205-81g.html"
+  data:
+    name: XD205-81G
+    title: XD205-81G
+    keywords: XD205-81G
+    description: XD205-81G
+    image: xd205-81g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xd208-33g.html"
+  data:
+    name: XD208-33G
+    title: XD208-33G
+    keywords: XD208-33G
+    description: XD208-33G
+    image: xd208-33g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xd208-99g.html"
+  data:
+    name: XD208-99G
+    title: XD208-99G
+    keywords: XD208-99G
+    description: XD208-99G
+    image: xd208-99g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xd208-99a.html"
+  data:
+    name: XD208-99A
+    title: XD208-99A
+    keywords: XD208-99A
+    description: XD208-99A
+    image: xd208-99a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xd239-67g.html"
+  data:
+    name: XD239-67G
+    title: XD239-67G
+    keywords: XD239-67G
+    description: XD239-67G
+    image: xd239-67g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xd239-67a.html"
+  data:
+    name: XD239-67A
+    title: XD239-67A
+    keywords: XD239-67A
+    description: XD239-67A
+    image: xd239-67a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xd212-07g.html"
+  data:
+    name: XD212-07G
+    title: XD212-07G
+    keywords: XD212-07G
+    description: XD212-07G
+    image: xd212-07g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xd212-07a.html"
+  data:
+    name: XD212-07A
+    title: XD212-07A
+    keywords: XD212-07A
+    description: XD212-07A
+    image: xd212-07a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xd218-28g.html"
+  data:
+    name: XD218-28G
+    title: XD218-28G
+    keywords: XD218-28G
+    description: XD218-28G
+    image: xd218-28g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xd218-28h.html"
+  data:
+    name: XD218-28H
+    title: XD218-28H
+    keywords: XD218-28H
+    description: XD218-28H
+    image: xd218-28h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x202-15.html"
+  data:
+    name: X202-15
+    title: X202-15
+    keywords: X202-15
+    description: X202-15
+    image: x202-15
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x204-09.html"
+  data:
+    name: X204-09
+    title: X204-09
+    keywords: X204-09
+    description: X204-09
+    image: x204-09
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x205-01.html"
+  data:
+    name: X205-01
+    title: X205-01
+    keywords: X205-01
+    description: X205-01
+    image: x205-01
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x207-15.html"
+  data:
+    name: X207-15
+    title: X207-15
+    keywords: X207-15
+    description: X207-15
+    image: x207-15
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x212-13.html"
+  data:
+    name: X212-13
+    title: X212-13
+    keywords: X212-13
+    description: X212-13
+    image: x212-13
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x213-11.html"
+  data:
+    name: X213-11
+    title: X213-11
+    keywords: X213-11
+    description: X213-11
+    image: x213-11
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x214-15.html"
+  data:
+    name: X214-15
+    title: X214-15
+    keywords: X214-15
+    description: X214-15
+    image: x214-15
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x215-48.html"
+  data:
+    name: X215-48
+    title: X215-48
+    keywords: X215-48
+    description: X215-48
+    image: x215-48
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x217-46.html"
+  data:
+    name: X217-46
+    title: X217-46
+    keywords: X217-46
+    description: X217-46
+    image: x217-46
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x204-09.html"
+  data:
+    name: X204-09
+    title: X204-09
+    keywords: X204-09
+    description: X204-09
+    image: x204-09
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x212-13.html"
+  data:
+    name: X212-13
+    title: X212-13
+    keywords: X212-13
+    description: X212-13
+    image: x212-13
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xa206-11.html"
+  data:
+    name: XA206-11
+    title: XA206-11
+    keywords: XA206-11
+    description: XA206-11
+    image: xa206-11
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚 
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xa207-06.html"
+  data:
+    name: XA207-06
+    title: XA207-06
+    keywords: XA207-06
+    description: XA207-06
+    image: xa207-06
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xa208-11.html"
+  data:
+    name: XA208-11
+    title: XA208-11
+    keywords: XA208-11
+    description: XA208-11
+    image: xa208-11
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xf295-05e.html"
+  data:
+    name: XF295-05E
+    title: XF295-05E
+    keywords: XF295-05E
+    description: XF295-05E
+    image: xf295-05e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xf296-05e.html"
+  data:
+    name: XF296-05E
+    title: XF296-05E
+    keywords: XF296-05E
+    description: XF296-05E
+    image: xf296-05e
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xf211-02g.html"
+  data:
+    name: XF21102G
+    title: XF21102G
+    keywords: XF21102G
+    description: XF21102G
+    image: xf21102g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xf220-02g.html"
+  data:
+    name: XF220-02G
+    title: XF220-02G
+    keywords: XF220-02G
+    description: XF220-02G
+    image: xf220-02g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+
+- filename: "/products/xf233-02g.html"
+  data:
+    name: XF233-02G
+    title: XF233-02G
+    keywords: XF233-02G
+    description: XF233-02G
+    image: xf233-02g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+
+- filename: "/products/xf299-02g.html"
+  data:
+    name: XF299-02G
+    title: XF299-02G
+    keywords: XF299-02G
+    description: XF299-02G
+    image: xf299-02g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+
+- filename: "/products/xk214-03.html"
+  data:
+    name: XK214-03
+    title: XK214-03
+    keywords: XK214-03
+    description: XK214-03
+    image: xk214-03
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xk241-28.html"
+  data:
+    name: XK241-28
+    title: XK241-28
+    keywords: XK241-28
+    description: XK241-28
+    image: xk241-28
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xq2791g.html"
+  data:
+    name: XQ2791G
+    title: XQ2791G
+    keywords: XQ2791G
+    description: XQ2791G
+    image: xq2791g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xq2795g.html"
+  data:
+    name: XQ2795G
+    title: XQ2795G
+    keywords: XQ2795G
+    description: XQ2795G
+    image: xq2795g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xq2813g.html"
+  data:
+    name: XQ2813G
+    title: XQ2813G
+    keywords: XQ2813G
+    description: XQ2813G
+    image: xq2813g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xq2831g-bk.html"
+  data:
+    name: XQ2831/BK
+    title: XQ2831/BK
+    keywords: XQ2831/BK
+    description: XQ2831/BK
+    image: xq2831-bk
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xq2831h.html"
+  data:
+    name: XQ2831H
+    title: XQ2831H
+    keywords: XQ2831H
+    description: XQ2831H
+    image: xq2831h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xq.html"
+  data:
+    name: XQ
+    title: XQ
+    keywords: XQ
+    description: XQ
+    image: xq
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xq2105g.html"
+  data:
+    name: XQ2105G
+    title: XQ2105G
+    keywords: XQ2105G
+    description: XQ2105G
+    image: xq2105g
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xq2105e.html"
+  data:
+    name: XQ2105E
+    title: XQ2105E
+    keywords: XQ2105E
+    description: XQ2105E
+    image: xq2105e
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xq2105g-bk.html"
+  data:
+    name: XQ2105g\bk
+    title: XQ2105g\bk
+    keywords: XQ2105g\bk
+    description: XQ2105g\bk
+    image: xq2105g-bk
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xt2001g.html"
+  data:
+    name: XT2001G
+    title: XT2001G
+    keywords: XT2001G
+    description: XT2001G
+    image: xt2001g
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+
+- filename: "/products/xt2001h.html"
+  data:
+    name: XT2001H
+    title: XT2001H
+    keywords: XT2001H
+    description: XT2001H
+    image: xt2001h
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xs201-01m.html"
+  data:
+    name: XS201-01M
+    title: XS201-01M
+    keywords: XS201-01M
+    description: XS201-01M
+    image: xs201-01m
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xs203-08m.html"
+  data:
+    name: XS203-08M
+    title: XS203-08M
+    keywords: XS203-08M
+    description: XS203-08M
+    image: xs203-08m
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xs205-12m.html"
+  data:
+    name: XS205-12M
+    title: XS205-12M
+    keywords: XS205-12M
+    description: XS205-12M
+    image: xs205-12m
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xs204-16m.html"
+  data:
+    name: XS204-16M
+    title: XS204-16M
+    keywords: XS204-16M
+    description: XS204-16M
+    image: xs204-16m
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xs201-03l.html"
+  data:
+    name: XS201-03L
+    title: XS201-03L
+    keywords: XS201-03L
+    description: XS201-03L
+    image: xs201-03l
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xs209-18l.html"
+  data:
+    name: XS209-18L
+    title: XS209-18L
+    keywords: XS209-18L
+    description: XS209-18L
+    image: xs209-18l
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xs202-14m.html"
+  data:
+    name: XS202-14M
+    title: XS202-14M
+    keywords: XS202-14M
+    description: XS202-14M
+    image: xs202-14m
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xs209-18m.html"
+  data:
+    name: XS209-18M
+    title: XS209-18M
+    keywords: XS209-18M
+    description: XS209-18M
+    image: xs209-18m
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xs218-38m.html"
+  data:
+    name: XS218-38M
+    title: XS218-38M
+    keywords: XS218-38M
+    description: XS218-38M
+    image: xs218-38m
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm213-32.html"
+  data:
+    name: XM213-32防盗锁
+    title: XM213-32防盗锁
+    keywords: XM213-32防盗锁
+    description: XM213-32防盗锁
+    image: xm213-32
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm214-33.html"
+  data:
+    name: XM214-33防盗锁
+    title: XM214-33防盗锁
+    keywords: XM214-33防盗锁
+    description: XM214-33防盗锁
+    image: xq214-33
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xj211.html"
+  data:
+    name: XJ211门铃开关
+    title: XJ211门铃开关
+    keywords: XJ211门铃开关
+    description: XJ211门铃开关
+    image: xj211
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xj232(usb).html"
+  data:
+    name: XJ232(USB)发卡机
+    title: XJ232(USB)发卡机
+    keywords: XJ232(USB)发卡机
+    description: XJ232(USB)发卡机
+    image: xjxj232(usb)
+    filter:
+      - 门锁配套
       - 宾馆
       - 商业地铺
       - 办公楼
@@ -19,25 +2759,58 @@
       - X4012两节导轨
 
 
-- filename: "/products/x4605.html"
+- filename: "/products/xj233.html"
   data:
-    name: X4605三节导轨
-    title: X4605三节导轨
-    keywords: X4605三节导轨
-    description: X4605三节导轨
-    image: x4605
+    name: XJ233酒店锁主板
+    title: XJ233酒店锁主板
+    keywords: XJ233酒店锁主板
+    description: XJ233酒店锁主板
+    image: xj233
     filter:
-      - 家具五金
-      - 小区
-      - 洋房
-      - 别墅
+      - 门锁配套
       - 宾馆
       - 商业地铺
       - 办公楼
       - 现代简约
       - 冷轧刚
     recommendations:
-      - X4605三节导轨
+      - X4012两节导轨
+
+
+- filename: "/products/xj235.html"
+  data:
+    name: XJ235酒店锁锁体
+    title: XJ235酒店锁锁体
+    keywords: XJ235酒店锁锁体
+    description: XJ235酒店锁锁体
+    image: xj233
+    filter:
+      - 门锁配套
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xj236.html"
+  data:
+    name: XJ236机械钥匙
+    title: XJ236机械钥匙
+    keywords: XJ236机械钥匙
+    description: XJ236机械钥匙
+    image: xj236
+    filter:
+      - 门锁配套
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
 
 
 - filename: "/products/x5430ab.html"
@@ -97,6 +2870,1162 @@
       - X4012两节导轨
 
 
+- filename: "/products/x5425ss.html"
+  data:
+    name: X5425SS不锈钢合页
+    title: X5425SS不锈钢合页
+    keywords: X5425SS不锈钢合页
+    description: X5425SS不锈钢合页
+    image: x5425ss
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5425a.html"
+  data:
+    name: X5425A不锈钢合页
+    title: X5425A不锈钢合页
+    keywords: X5425A不锈钢合页
+    description: X5425A不锈钢合页
+    image: x5425a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5425.html"
+  data:
+    name: X5425
+    title: X5425不锈钢合页
+    keywords: X5425不锈钢合页
+    description: X5425不锈钢合页
+    image: x5425不锈钢合页
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5430ss.html"
+  data:
+    name: X5430SS
+    title: X5430SS不锈钢合页
+    keywords: X5430SS不锈钢合页
+    description: X5430SS不锈钢合页
+    image: x5430ss不锈钢合页
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5430a.html"
+  data:
+    name: X5430A不锈钢合页
+    title: X5430A不锈钢合页
+    keywords: X5430A不锈钢合页
+    description: X5430A不锈钢合页
+    image: x5430a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5430.html"
+  data:
+    name: X5430不锈钢合页
+    title: X5430不锈钢合页
+    keywords: X5430不锈钢合页
+    description: X5430不锈钢合页
+    image: x5430
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5430ab.html"
+  data:
+    name: X5430AB不锈钢合页
+    title: X5430AB不锈钢合页
+    keywords: X5430AB不锈钢合页
+    description: X5430AB不锈钢合页
+    image: x5430ab
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5430ac.html"
+  data:
+    name: X5430AC不锈钢合页
+    title: X5430AC不锈钢合页
+    keywords: X5430AC不锈钢合页
+    description: X5430AC不锈钢合页
+    image: x5430ac
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5430y.html"
+  data:
+    name: X5430Y不锈钢合页
+    title: X5430Y不锈钢合页
+    keywords: X5430Y不锈钢合页
+    description: X5430Y不锈钢合页
+    image: x5430y
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5430sg.html"
+  data:
+    name: X5430SG不锈钢合页
+    title: X5430SG不锈钢合页
+    keywords: X5430SG不锈钢合页
+    description: X5430SG不锈钢合页
+    image: x5430sg
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5430ps.html"
+  data:
+    name: X5430PS不锈钢合页
+    title: X5430PS不锈钢合页
+    keywords: X5430PS不锈钢合页
+    description: X5430PS不锈钢合页
+    image: x5430ps
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x54430.html"
+  data:
+    name: X54430不锈钢合页
+    title: X54430不锈钢合页
+    keywords: X54430不锈钢合页
+    description: X54430不锈钢合页
+    image: x54430
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5530a.html"
+  data:
+    name: X5530A不锈钢合页
+    title: X5530A不锈钢合页
+    keywords: X5530A不锈钢合页
+    description: X5530A不锈钢合页
+    image: x5530a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5425ss.html"
+  data:
+    name: X5425SS不锈钢子母合页
+    title: X5425SS不锈钢子母合页
+    keywords: X5425SS不锈钢子母合页
+    description: X5425SS不锈钢子母合页
+    image: x5425ss
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5425a.html"
+  data:
+    name: X5425A不锈钢子母合页
+    title: X5425A不锈钢子母合页
+    keywords: X5425A不锈钢子母合页
+    description: X5425A不锈钢子母合页
+    image: x5425a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5425.html"
+  data:
+    name: X5425不锈钢子母合页
+    title: X5425不锈钢子母合页
+    keywords: X5425不锈钢子母合页
+    description: X5425不锈钢子母合页
+    image: x5425
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5425ab.html"
+  data:
+    name: X5425AB不锈钢子母合页
+    title: X5425AB不锈钢子母合页
+    keywords: X5425AB不锈钢子母合页
+    description: X5425AB不锈钢子母合页
+    image: x5425ab
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5425ac.html"
+  data:
+    name: X5425AC不锈钢子母合页
+    title: X5425AC不锈钢子母合页
+    keywords: X5425AC不锈钢子母合页
+    description: X5425AC不锈钢子母合页
+    image: x5425ac
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5430a.html"
+  data:
+    name: X5430A不锈钢子母合页
+    title: X5430A不锈钢子母合页
+    keywords: X5430A不锈钢子母合页
+    description: X5430A不锈钢子母合页
+    image: x5430a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/5430.html"
+  data:
+    name: 5430不锈钢子母合页
+    title: 5430不锈钢子母合页
+    keywords: 5430不锈钢子母合页
+    description: 5430不锈钢子母合页
+    image: 5430
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5530a.html"
+  data:
+    name: X5530A不锈钢子母合页
+    title: X5530A不锈钢子母合页
+    keywords: X5530A不锈钢子母合页
+    description: X5530A不锈钢子母合页
+    image: x5530a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5525ac.html"
+  data:
+    name: X5525AC不锈钢子母合页
+    title: X5525AC不锈钢子母合页
+    keywords: X5525AC不锈钢子母合页
+    description: X5525AC不锈钢子母合页
+    image: x5525ac
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x5425.html"
+  data:
+    name: X5425不锈钢子母合页
+    title: X5425不锈钢子母合页
+    keywords: X5425不锈钢子母合页
+    description: X5425不锈钢子母合页
+    image: x5425
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6605.html"
+  data:
+    name: X6605不锈钢门吸
+    title: X6605不锈钢门吸
+    keywords: X6605不锈钢门吸
+    description: X6605不锈钢门吸
+    image: x6605
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6606.html"
+  data:
+    name: X6606不锈钢门吸
+    title: X6606不锈钢门吸
+    keywords: X6606不锈钢门吸
+    description: X6606不锈钢门吸
+    image: x6606
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6607.html"
+  data:
+    name: X6607不锈钢门吸
+    title: X6607不锈钢门吸
+    keywords: X6607不锈钢门吸
+    description: X6607不锈钢门吸
+    image: x6607
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6688.html"
+  data:
+    name: X6688不锈钢门吸
+    title: X6688不锈钢门吸
+    keywords: X6688不锈钢门吸
+    description: X6688不锈钢门吸
+    image: x6688
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x8518.html"
+  data:
+    name: X8518不锈钢门吸
+    title: X8518不锈钢门吸
+    keywords: X8518不锈钢门吸
+    description: X8518不锈钢门吸
+    image: x8518
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6223.html"
+  data:
+    name: X6223亮铬门吸
+    title: X6223亮铬门吸
+    keywords: X6223亮铬门吸
+    description: X6223亮铬门吸
+    image: x6223
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6311.html"
+  data:
+    name: X6311钢拉丝门吸
+    title: X6311钢拉丝门吸
+    keywords: X6311钢拉丝门吸
+    description: X6311钢拉丝门吸
+    image: x6311
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6518a.html"
+  data:
+    name: X6518A钢拉丝门吸
+    title: X6518A钢拉丝门吸
+    keywords: X6518A钢拉丝门吸
+    description: X6518A钢拉丝门吸
+    image: x6518a
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6846.html"
+  data:
+    name: X6846黄古铜门吸
+    title: X6846黄古铜门吸
+    keywords: X6846黄古铜门吸
+    description: X6846黄古铜门吸
+    image: x6846
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6899.html"
+  data:
+    name: X6899钢拉丝门吸
+    title: X6899钢拉丝门吸
+    keywords: X6899钢拉丝门吸
+    description: X6899钢拉丝门吸
+    image: x6899
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6990.html"
+  data:
+    name: X6990钢拉丝门吸
+    title: X6990钢拉丝门吸
+    keywords: X6990钢拉丝门吸
+    description: X6990钢拉丝门吸
+    image: x6990
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6991.html"
+  data:
+    name: X6991象牙白门吸
+    title: X6991象牙白门吸
+    keywords: X6991象牙白门吸
+    description: X6991象牙白门吸
+    image: x6991
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6996.html"
+  data:
+    name: X6996象牙白门吸
+    title: X6996象牙白门吸
+    keywords: X6996象牙白门吸
+    description: X6996象牙白门吸
+    image: x6996
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x338b.html"
+  data:
+    name: X338B钢拉丝门吸
+    title: X338B钢拉丝门吸
+    keywords: X338B钢拉丝门吸
+    description: X338B钢拉丝门吸
+    image: x338b
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6215.html"
+  data:
+    name: X6215钢拉丝门吸
+    title: X6215钢拉丝门吸
+    keywords: X6215钢拉丝门吸
+    description: X6215钢拉丝门吸
+    image: x6215
+    filter:
+      - 门锁配套
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6218.html"
+  data:
+    name: X6218钢拉丝地吸
+    title: X6218钢拉丝地吸
+    keywords: X6218钢拉丝地吸
+    description: X6218钢拉丝地吸
+    image: x6218
+    filter:
+      - 门锁配套
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6220.html"
+  data:
+    name: X6220钢拉丝地吸
+    title: X6220钢拉丝地吸
+    keywords: X6220钢拉丝地吸
+    description: X6220钢拉丝地吸
+    image: x6220
+    filter:
+      - 门锁配套
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6221.html"
+  data:
+    name: X6221亮白门顶珠
+    title: X6221亮白门顶珠
+    keywords: X6221亮白门顶珠
+    description: X6221亮白门顶珠
+    image: x6221
+    filter:
+      - 门锁配套
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+
+- filename: "/products/x8108.html"
+  data:
+    name: X8108吊轮
+    title: X8108吊轮
+    keywords: X8108吊轮
+    description: X8108吊轮
+    image: x8108
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x8144.html"
+  data:
+    name: X8144吊轮
+    title: X8144吊轮
+    keywords: X8144吊轮
+    description: X8144吊轮
+    image: x8144
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x8188.html"
+  data:
+    name: X8188吊轮
+    title: X8188吊轮
+    keywords: X8188吊轮
+    description: X8188吊轮
+    image: x8188
+    filter:
+      - 卫浴五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xdg32.html"
+  data:
+    name: XDG32吊轮
+    title: XDG32吊轮
+    keywords: XDG32吊轮
+    description: XDG32吊轮
+    image: xdg32
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x8155.html"
+  data:
+    name: X8155折叠门吊轮配套(需配其他吊轨)
+    title: X8155折叠门吊轮配套(需配其他吊轨)
+    keywords: X8155折叠门吊轮配套(需配其他吊轨)
+    description: X8155折叠门吊轮配套(需配其他吊轨)
+    image: x8155
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/x0305.html"
+  data:
+    name: X0305青古铜+黑木桃1500xΦ51
+    title: X0305青古铜+黑木桃1500xΦ51
+    keywords: X0305青古铜+黑木桃1500xΦ51
+    description: X0305青古铜+黑木桃1500xΦ51
+    image: x0305
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/x0280.html"
+  data:
+    name: X0280钛金+花梨木1600x25x50
+    title: X0280钛金+花梨木1600x25x50
+    keywords: X0280钛金+花梨木1600x25x50
+    description: X0280钛金+花梨木1600x25x50
+    image: x0280
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/x0303.html"
+  data:
+    name: X0303钛金+黑桃木Φ38
+    title: X0303钛金+黑桃木Φ38
+    keywords: X0303钛金+黑桃木Φ38
+    description: X0303钛金+黑桃木Φ38
+    image: x0303
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/x0356.html"
+  data:
+    name: X0356水晶+青古铜1380xΦ80
+    title: X0356水晶+青古铜1380xΦ80
+    keywords: X0356水晶+青古铜1380xΦ80
+    description: X0356水晶+青古铜1380xΦ80
+    image: x0356
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/x0380.html"
+  data:
+    name: X0380水晶+钛金1380xΦ51
+    title: X0380水晶+钛金1380xΦ51
+    keywords: X0380水晶+钛金1380xΦ51
+    description: X0380水晶+钛金1380xΦ51
+    image: x0380
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/x0679.html"
+  data:
+    name: X0679青古铜1500xΦ38
+    title: X0679青古铜1500xΦ38
+    keywords: X0679青古铜1500xΦ38
+    description: X0679青古铜1500xΦ38
+    image: x
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/x0680.html"
+  data:
+    name: X0680黄古铜1200xΦ51
+    title: X0680黄古铜1200xΦ51
+    keywords: X0680黄古铜1200xΦ51
+    description: X0680黄古铜1200xΦ51
+    image: x
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/x0607.html"
+  data:
+    name: X0607木+红古铜1800xΦ63
+    title: X0607木+红古铜1800xΦ63
+    keywords: X0607木+红古铜1800xΦ63
+    description: X0607木+红古铜1800xΦ63
+    image: x0607
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+	  
+
+  data:
+    name: XJ201金拉丝
+    title: XJ201金拉丝
+    keywords: XJ201金拉丝
+    description: XJ201金拉丝
+    image: xj201
+    filter:
+      - 门锁配套
+      - 小区
+      - 洋房
+      - 别墅
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+	  
+- filename: "/products/x4012.html"
+  data:
+    name: X4012两节导轨
+    title: X4012两节导轨
+    keywords: X4012两节导轨
+    description: X4012两节导轨
+    image: x4012
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x4605.html"
+  data:
+    name: X4605三节导轨
+    title: X4605三节导轨
+    keywords: X4605三节导轨
+    description: X4605三节导轨
+    image: x4605
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
+    recommendations:
+      - X4605三节导轨
+
+
 - filename: "/products/x6311.html"
   data:
     name: X6311钢拉丝门吸
@@ -138,41 +4067,6 @@
     recommendations:
       - X4012两节导轨
 
-
-- filename: "/products/xb251-243a.html"
-  data:
-    name: XB251-243A枪间金门锁
-    title: XB251-243A枪间金门锁
-    keywords: XB251-243A枪间金门锁
-    description: XB251-243A枪间金门锁
-    image: xb251-243a
-    filter:
-      - 门锁配套
-      - 小区
-      - 洋房
-      - 别墅
-      - 欧式奢华
-      - 锌合金
-    recommendations:
-      - X4012两节导轨
-
-
-- filename: "/products/xb251-243e.html"
-  data:
-    name: XB251-243E青古铜门锁
-    title: XB251-243E青古铜门锁
-    keywords: XB251-243E青古铜门锁
-    description: XB251-243E青古铜门锁
-    image: xb251-243e
-    filter:
-      - 门锁配套
-      - 小区
-      - 洋房
-      - 别墅
-      - 欧式奢华
-      - 锌合金
-    recommendations:
-      - X4012两节导轨
 
 
 - filename: "/products/xm8128.html"
