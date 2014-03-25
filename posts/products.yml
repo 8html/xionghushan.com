@@ -3745,7 +3745,7 @@
     description: X8188吊轮
     image: x8188
     filter:
-      - 卫浴五金
+      - 门控五金
       - 宾馆
       - 商业地铺
       - 办公楼
@@ -3807,7 +3807,7 @@
     description: X0305青古铜+黑木桃1500xΦ51
     image: x0305
     filter:
-      - 门锁配套
+      - 门控五金
       - 小区
       - 洋房
       - 别墅
@@ -3828,7 +3828,7 @@
     description: X0280钛金+花梨木1600x25x50
     image: x0280
     filter:
-      - 门锁配套
+      - 门控五金
       - 小区
       - 洋房
       - 别墅
@@ -3849,14 +3849,14 @@
     description: X0303钛金+黑桃木Φ38
     image: x0303
     filter:
-      - 门锁配套
+      - 门控五金
       - 小区
       - 洋房
       - 别墅
       - 宾馆
       - 商业地铺
       - 办公楼
-      - 中式仿古
+      - 欧式奢华
       - 锌合金
     recommendations:
       - X4012两节导轨
@@ -3870,14 +3870,14 @@
     description: X0356水晶+青古铜1380xΦ80
     image: x0356
     filter:
-      - 门锁配套
+      - 门控五金
       - 小区
       - 洋房
       - 别墅
       - 宾馆
       - 商业地铺
       - 办公楼
-      - 中式仿古
+      - 欧式奢华
       - 锌合金
     recommendations:
       - X4012两节导轨
@@ -3891,14 +3891,14 @@
     description: X0380水晶+钛金1380xΦ51
     image: x0380
     filter:
-      - 门锁配套
+      - 门控五金
       - 小区
       - 洋房
       - 别墅
       - 宾馆
       - 商业地铺
       - 办公楼
-      - 中式仿古
+      - 现代简约
       - 锌合金
     recommendations:
       - X4012两节导轨
@@ -3912,14 +3912,14 @@
     description: X0679青古铜1500xΦ38
     image: x
     filter:
-      - 门锁配套
+      - 门控五金
       - 小区
       - 洋房
       - 别墅
       - 宾馆
       - 商业地铺
       - 办公楼
-      - 中式仿古
+      - 现代简约
       - 锌合金
     recommendations:
       - X4012两节导轨
@@ -3933,14 +3933,14 @@
     description: X0680黄古铜1200xΦ51
     image: x
     filter:
-      - 门锁配套
+      - 门控五金
       - 小区
       - 洋房
       - 别墅
       - 宾馆
       - 商业地铺
       - 办公楼
-      - 中式仿古
+      - 现代简约
       - 锌合金
     recommendations:
       - X4012两节导轨
@@ -3954,32 +3954,2892 @@
     description: X0607木+红古铜1800xΦ63
     image: x0607
     filter:
-      - 门锁配套
+      - 门控五金
       - 小区
       - 洋房
       - 别墅
       - 宾馆
       - 商业地铺
       - 办公楼
-      - 中式仿古
+      - 现代简约
       - 锌合金
     recommendations:
       - X4012两节导轨
 	  
-
+	  
+- filename: "/products/x0354.html"
   data:
-    name: XJ201金拉丝
-    title: XJ201金拉丝
-    keywords: XJ201金拉丝
-    description: XJ201金拉丝
-    image: xj201
+    name: X0354青古铜1100Φ49
+    title: X0354青古铜1100Φ49
+    keywords: X0354青古铜1100Φ49
+    description: X0354青古铜1100Φ49
+    image: x0354
     filter:
-      - 门锁配套
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+	  
+	  
+- filename: "/products/x0655.html"
+  data:
+    name: X0655黄古铜1800x20x120
+    title: X065黄古铜1800x20x1205
+    keywords: X0655黄古铜1800x20x120
+    description: X0655黄古铜1800x20x120
+    image: x0655
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+	  
+	  
+- filename: "/products/x0337.html"
+  data:
+    name: X0337玫瑰金
+    title: X0337玫瑰金
+    keywords: X0337玫瑰金
+    description: X0337玫瑰金
+    image: x0337
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+	  
+	  
+- filename: "/products/x0472.html"
+  data:
+    name: X0472镜光600x25x38
+    title: X0472镜光600x25x38
+    keywords: X0472镜光600x25x38
+    description: X0472镜光600x25x38
+    image: x0472
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+	  
+	  
+- filename: "/products/x0669.html"
+  data:
+    name: X0669钛金1200x50x25
+    title: X0669钛金1200x50x25
+    keywords: X0669钛金1200x50x25
+    description: X0669钛金1200x50x25
+    image: x0669
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+	  
+	  
+- filename: "/products/x0433.html"
+  data:
+    name: X0433砂光1200x25x38
+    title: X0433砂光1200x25x38
+    keywords: X0433砂光1200x25x38
+    description: X0433砂光1200x25x38
+    image: x0433
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+	  
+	  
+- filename: "/products/x0440.html"
+  data:
+    name: X0440砂光+镜光600xΦ38
+    title: X0440砂光+镜光600xΦ38
+    keywords: X0440砂光+镜光600xΦ38
+    description: X0440砂光+镜光600xΦ38
+    image: x0440
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+	  
+	  
+- filename: "/products/x0223.html"
+  data:
+    name: X0223砂光+红桃木600x15x30
+    title: X0223砂光+红桃木600x15x30
+    keywords: X0223砂光+红桃木600x15x30
+    description: X0223砂光+红桃木600x15x30
+    image: x0223
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+	  
+	  
+- filename: "/products/x0204.html"
+  data:
+    name: X0204镜光+黑桃木600xΦ38
+    title: X0204镜光+黑桃木600xΦ38
+    keywords: X0204镜光+黑桃木600xΦ38
+    description: X0204镜光+黑桃木600xΦ38
+    image: x0204
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+	  
+	  
+- filename: "/products/x0544.html"
+  data:
+    name: X0544砂光+镜光450xΦ32
+    title: X0544砂光+镜光450xΦ32
+    keywords: X0544砂光+镜光450xΦ32
+    description: X0544砂光+镜光450xΦ32
+    image: x0544
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+	  
+	  
+- filename: "/products/x0563.html"
+  data:
+    name: X0563镜光300x500xΦ25
+    title: X0563镜光300x500xΦ25
+    keywords: X0563镜光300x500xΦ25
+    description: X0563镜光300x500xΦ25
+    image: x0563
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+	  
+	  
+- filename: "/products/x0606d.html"
+  data:
+    name: X0606D星孔300xΦ25
+    title: X0606D星孔300xΦ25
+    keywords: X0606D星孔300xΦ25
+    description: X0606D星孔300xΦ25
+    image: x0606d
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+	  
+	  
+- filename: "/products/x0457.html"
+  data:
+    name: X0457砂光1200x25x38
+    title: X0457砂光1200x25x38
+    keywords: X0457砂光1200x25x38
+    description: X0457砂光1200x25x38
+    image: x0457
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8153.html"
+  data:
+    name: XM8153定位闭门器
+    title: XM8153定位闭门器
+    keywords: XM8153定位闭门器
+    description: XM8153定位闭门器
+    image: xm8153
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8173.html"
+  data:
+    name: XM8173定位闭门器
+    title: XM8173定位闭门器
+    keywords: XM8173定位闭门器
+    description: XM8173定位闭门器
+    image: xm8173
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8183.html"
+  data:
+    name: XM8183定位闭门器
+    title: XM8183定位闭门器
+    keywords: XM8183定位闭门器
+    description: XM8183定位闭门器
+    image: xm8173
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8193.html"
+  data:
+    name: XM8193定位闭门器
+    title: XM8193定位闭门器
+    keywords: XM8193定位闭门器
+    description: XM8193定位闭门器
+    image: xm8173
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8210.html"
+  data:
+    name: XM8210下夹
+    title: XM8210下夹
+    keywords: XM8210下夹
+    description: XM8210下夹
+    image: xm8210
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8220.html"
+  data:
+    name: XM8220上夹
+    title: XM8220上夹
+    keywords: XM8220上夹
+    description: XM8220上夹
+    image: xm8220
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8320.html"
+  data:
+    name: XM8320顶夹
+    title: XM8320顶夹
+    keywords: XM8320顶夹
+    description: XM8320顶夹
+    image: xm8320
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8240.html"
+  data:
+    name: XM8240曲夹
+    title: XM8240曲夹
+    keywords: XM8240曲夹
+    description: XM8240曲夹
+    image: xm8240
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8250.html"
+  data:
+    name: XM8250锁夹
+    title: XM8250锁夹
+    keywords: XM8250锁夹
+    description: XM8250锁夹
+    image: xm8250
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8238.html"
+  data:
+    name: XM8238玻璃门插销
+    title: XM8238玻璃门插销
+    keywords: XM8238玻璃门插销
+    description: XM8238玻璃门插销
+    image: xm8238
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8401-90.html"
+  data:
+    name: XM8401-90单夹
+    title: XM8401-90单夹
+    keywords: XM8401-90单夹
+    description: XM8401-90单夹
+    image: xm8401-90
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8405-90.html"
+  data:
+    name: XM8405-90双夹
+    title: XM8405-90双夹
+    keywords: XM8405-90双夹
+    description: XM8405-90双夹
+    image: xm8405-90
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8403-135.html"
+  data:
+    name: XM8403-135双夹
+    title: XM8403-135双夹
+    keywords: XM8403-135双夹
+    description: XM8403-135双夹
+    image: xm8403-135
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8404-180.html"
+  data:
+    name: XM8404-180双夹
+    title: XM8404-180双夹
+    keywords: XM8404-180双夹
+    description: XM8404-180双夹
+    image: xm8404-180
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 不锈钢
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8128.html"
+  data:
+    name: XM8128地弹簧
+    title: XM8128地弹簧
+    keywords: XM8128地弹簧
+    description: XM8128地弹簧
+    image: xm8128
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8148.html"
+  data:
+    name: XM8148地弹簧
+    title: XM8148地弹簧
+    keywords: XM8148地弹簧
+    description: XM8148地弹簧
+    image: xm8148
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8168.html"
+  data:
+    name: XM8168地弹簧
+    title: XM8168地弹簧
+    keywords: XM8168地弹簧
+    description: XM8168地弹簧
+    image: xm8168
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xm8180.html"
+  data:
+    name: XM8180地弹簧
+    title: XM8180地弹簧
+    keywords: XM8180地弹簧
+    description: XM8180地弹簧
+    image: xm8180
+    filter:
+      - 门控五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1001f.html"
+  data:
+    name: X1001F
+    title: X1001F
+    keywords: X1001F
+    description: X1001F
+    image: x1001f
+    filter:
+      - 家具五金
       - 小区
       - 洋房
       - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
       - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1002ce.html"
+  data:
+    name: X1002CE
+    title: X1002CE
+    keywords: X1002CE
+    description: X1002CE
+    image: x1002ce
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1003f.html"
+  data:
+    name: X1003F
+    title: X1003F
+    keywords: X1003F
+    description: X1003F
+    image: x1003f
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1009f.html"
+  data:
+    name: X1009F
+    title: X1009F
+    keywords: X1009F
+    description: X1009F
+    image: x1009f
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1025hf.html"
+  data:
+    name: X1025HF
+    title: X1025HF
+    keywords: X1025HF
+    description: X1025HF
+    image: x1025hf
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1053ce.html"
+  data:
+    name: X1053CE
+    title: X1053CE
+    keywords: X1053CE
+    description: X1053CE
+    image: x1053ce
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1129f.html"
+  data:
+    name: X1129F
+    title: X1129F
+    keywords: X1129F
+    description: X1129F
+    image: x1129f
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1143.html"
+  data:
+    name: X1143
+    title: X1143
+    keywords: X1143
+    description: X1143
+    image: x1143
+    filter:
+      - 家具五金
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 太空铝
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1261ab.html"
+  data:
+    name: X1261AB
+    title: X1261AB
+    keywords: X1261AB
+    description: X1261AB
+    image: x1261ab
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1273ab.html"
+  data:
+    name: X1273AB
+    title: X1273AB
+    keywords: X1273AB
+    description: X1273AB
+    image: x1273ab
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1273ac.html"
+  data:
+    name: X1273AC
+    title: X1273AC
+    keywords: X1273AC
+    description: X1273AC
+    image: x1273ac
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1281ab.html"
+  data:
+    name: X1281AB
+    title: X1281AB
+    keywords: X1281AB
+    description: X1281AB
+    image: x1281ab
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1281ac.html"
+  data:
+    name: X1281AC
+    title: X1281AC
+    keywords: X1281AC
+    description: X1281AC
+    image: x1281ac
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 欧式奢华
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1307gp.html"
+  data:
+    name: X1307GP
+    title: X1307GP
+    keywords: X1307GP
+    description: X1307GP
+    image: x1307gp
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1307.html"
+  data:
+    name: X1307象牙白
+    title: X1307象牙白
+    keywords: X1307象牙白
+    description: X1307象牙白
+    image: x1307
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1310gp.html"
+  data:
+    name: X1310GP
+    title: X1310GP
+    keywords: X1310GP
+    description: X1310GP
+    image: x1310gp
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1312gp.html"
+  data:
+    name: X1312GP
+    title: X1312GP
+    keywords: X1312GP
+    description: X1312GP
+    image: x1312gp
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1313gp.html"
+  data:
+    name: X1313GP
+    title: X1313GP
+    keywords: X1313GP
+    description: X1313GP
+    image: x1313gp
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1781gp.html"
+  data:
+    name: X1781GP
+    title: X1781GP
+    keywords: X1781GP
+    description: X1781GP
+    image: x1781gp
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1781ab.html"
+  data:
+    name: X1781AB
+    title: X1781AB
+    keywords: X1781AB
+    description: X1781AB
+    image: x1781ab
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1781ac.html"
+  data:
+    name: X1781AC
+    title: X1781AC
+    keywords: X1781AC
+    description: X1781AC
+    image: x1781ac
+    filter:
+      - 家具五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 中式仿古
+      - 锌合金
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1604.html"
+  data:
+    name: X1604铬间钢拉丝
+    title: X1604铬间钢拉丝
+    keywords: X1604铬间钢拉丝
+    description: X1604铬间钢拉丝
+    image: x1604
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
       - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1605.html"
+  data:
+    name: X1605铬间钢拉丝
+    title: X1605铬间钢拉丝
+    keywords: X1605铬间钢拉丝
+    description: X1605铬间钢拉丝
+    image: x1605
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1606.html"
+  data:
+    name: X1606铬间钢拉丝
+    title: X1606铬间钢拉丝
+    keywords: X1606铬间钢拉丝
+    description: X1606铬间钢拉丝
+    image: x1606
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1609.html"
+  data:
+    name: X1609铬间砂银
+    title: X1609铬间砂银
+    keywords: X1609铬间砂银
+    description: X1609铬间砂银
+    image: x1609
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1610.html"
+  data:
+    name: X1610铬间钢拉丝
+    title: X1610铬间钢拉丝
+    keywords: X1610铬间钢拉丝
+    description: X1610铬间钢拉丝
+    image: x1610铬间钢拉丝
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1616-96.html"
+  data:
+    name: X1616-96
+    title: X1616-96
+    keywords: X1616-96
+    description: X1616-96
+    image: x1616-96
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1618.html"
+  data:
+    name: X1618
+    title: X1618
+    keywords: X1618
+    description: X1618
+    image: x1618
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1619.html"
+  data:
+    name: X1619
+    title: X1619
+    keywords: X1619
+    description: X1619
+    image: x1619
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1620.html"
+  data:
+    name: X1620
+    title: X1620
+    keywords: X1620
+    description: X1620
+    image: x1620
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1621.html"
+  data:
+    name: X1621
+    title: X1621
+    keywords: X1621
+    description: X1621
+    image: x1621
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1632.html"
+  data:
+    name: X1632金古银
+    title: X1632金古银
+    keywords: X1632金古银
+    description: X1632金古银
+    image: x1632
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1633.html"
+  data:
+    name: X1633金古银
+    title: X1633金古银
+    keywords: X1633金古银
+    description: X1633金古银
+    image: x1633
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1634.html"
+  data:
+    name: X1634金古银
+    title: X1634金古银
+    keywords: X1634金古银
+    description: X1634金古银
+    image: x1634
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1635-96.html"
+  data:
+    name: X1635-96象牙白
+    title: X1635-96象牙白
+    keywords: X1635-96象牙白
+    description: X1635-96象牙白
+    image: x1635-96
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1636.html"
+  data:
+    name: X1636青古铜
+    title: X1636青古铜
+    keywords: X1636青古铜
+    description: X1636青古铜
+    image: x1636
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1637.html"
+  data:
+    name: X1637琥珀金
+    title: X1637琥珀金
+    keywords: X1637琥珀金
+    description: X1637琥珀金
+    image: x1637
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1650.html"
+  data:
+    name: X1650咖啡金
+    title: X1650咖啡金
+    keywords: X1650咖啡金
+    description: X1650咖啡金
+    image: x1650
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1651.html"
+  data:
+    name: X1651咖啡金
+    title: X1651咖啡金
+    keywords: X1651咖啡金
+    description: X1651咖啡金
+    image: x1651
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1652.html"
+  data:
+    name: X1652亮金
+    title: X1652亮金
+    keywords: X1652亮金
+    description: X1652亮金
+    image: x1652
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1653.html"
+  data:
+    name: X1653亮金
+    title: X1653亮金
+    keywords: X1653亮金
+    description: X1653亮金
+    image: x1653
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1655.html"
+  data:
+    name: X1655金间象牙白
+    title: X1655金间象牙白
+    keywords: X1655金间象牙白
+    description: X1655金间象牙白
+    image: x1655
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1656.html"
+  data:
+    name: X1656金间象牙白
+    title: X1656金间象牙白
+    keywords: X1656金间象牙白
+    description: X1656金间象牙白
+    image: x1656
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1657.html"
+  data:
+    name: X1657金间象牙白
+    title: X1657金间象牙白
+    keywords: X1657金间象牙白
+    description: X1657金间象牙白
+    image: x1657
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1691.html"
+  data:
+    name: X1691黄古铜拉手
+    title: X1691黄古铜拉手
+    keywords: X1691黄古铜拉手
+    description: X1691黄古铜拉手
+    image: x1691
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1691-128.html"
+  data:
+    name: X1691-128金/黑古铜拉手
+    title: X1691-128金/黑古铜拉手
+    keywords: X1691-128金/黑古铜拉手
+    description: X1691-128金/黑古铜拉手
+    image: x1691-128
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1692.html"
+  data:
+    name: X1692咖啡金拉手
+    title: X1692咖啡金拉手
+    keywords: X1692咖啡金拉手
+    description: X1692咖啡金拉手
+    image: x1692
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1693.html"
+  data:
+    name: X1693咖啡红拉手
+    title: X1693咖啡红拉手
+    keywords: X1693咖啡红拉手
+    description: X1693咖啡红拉手
+    image: x1693
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x1696.html"
+  data:
+    name: X1696青古铜
+    title: X1696青古铜
+    keywords: X1696青古铜
+    description: X1696青古铜
+    image: x1696
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x318-07.html"
+  data:
+    name: X318-07大弯
+    title: X318-07大弯
+    keywords: X318-07大弯
+    description: X318-07大弯
+    image: x318-07
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x318-08.html"
+  data:
+    name: X318-08中弯
+    title: X318-08中弯
+    keywords: X318-08中弯
+    description: X318-08中弯
+    image: x318-08
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x318-09.html"
+  data:
+    name: X318-09直臂
+    title: X318-09直臂
+    keywords: X318-09直臂
+    description: X318-09直臂
+    image: x318-09
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x328-07.html"
+  data:
+    name: X328-07大弯
+    title: X328-07大弯
+    keywords: X328-07大弯
+    description: X328-07大弯
+    image: x328-07
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x328-08.html"
+  data:
+    name: X328-08中弯
+    title: X328-08中弯
+    keywords: X328-08中弯
+    description: X328-08中弯
+    image: x328-08
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x328-09.html"
+  data:
+    name: X328-09直臂
+    title: X328-09直臂
+    keywords: X328-09直臂
+    description: X328-09直臂
+    image: x328-09
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x338-07.html"
+  data:
+    name: X338-07不锈钢大弯
+    title: X338-07不锈钢大弯
+    keywords: X338-07不锈钢大弯
+    description: X338-07不锈钢大弯
+    image: x338-07
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x338-08.html"
+  data:
+    name: X338-08不锈钢中弯
+    title: X338-08不锈钢中弯
+    keywords: X338-08不锈钢中弯
+    description: X338-08不锈钢中弯
+    image: x338-08
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x338-09.html"
+  data:
+    name: X338-09不锈钢直臂
+    title: X338-09不锈钢直臂
+    keywords: X338-09不锈钢直臂
+    description: X338-09不锈钢直臂
+    image: x338-09
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x339-07.html"
+  data:
+    name: X339-07不锈钢液压大弯
+    title: X339-07不锈钢液压大弯
+    keywords: X339-07不锈钢液压大弯
+    description: X339-07不锈钢液压大弯
+    image: x339-07
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x339-08.html"
+  data:
+    name: X339-08不锈钢液压中弯
+    title: X339-08不锈钢液压中弯
+    keywords: X339-08不锈钢液压中弯
+    description: X339-08不锈钢液压中弯
+    image: x339-08
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x339-09.html"
+  data:
+    name: X339-09不锈钢液压直臂
+    title: X339-09不锈钢液压直臂
+    keywords: X339-09不锈钢液压直臂
+    description: X339-09不锈钢液压直臂
+    image: x339-09
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x348-07.html"
+  data:
+    name: X348-07不锈钢液压大弯
+    title: X348-07不锈钢液压大弯
+    keywords: X348-07不锈钢液压大弯
+    description: X348-07不锈钢液压大弯
+    image: x348-07
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x348-08.html"
+  data:
+    name: X348-08不锈钢液压中弯
+    title: X348-08不锈钢液压中弯
+    keywords: X348-08不锈钢液压中弯
+    description: X348-08不锈钢液压中弯
+    image: x348-08
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x348-09.html"
+  data:
+    name: X348-09不锈钢液压直臂
+    title: X348-09不锈钢液压直臂
+    keywords: X348-09不锈钢液压直臂
+    description: X348-09不锈钢液压直臂
+    image: x348-09
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x349-07.html"
+  data:
+    name: X349-07不锈钢铜缸液压大弯
+    title: X349-07不锈钢铜缸液压大弯
+    keywords: X349-07不锈钢铜缸液压大弯
+    description: X349-07不锈钢铜缸液压大弯
+    image: x349-07
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x349-08.html"
+  data:
+    name: X349-08不锈钢铜缸液压中弯
+    title: X349-08不锈钢铜缸液压中弯
+    keywords: X349-08不锈钢铜缸液压中弯
+    description: X349-08不锈钢铜缸液压中弯
+    image: x349-08
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x349-09.html"
+  data:
+    name: X349-09不锈钢铜缸液压直臂
+    title: X349-09不锈钢铜缸液压直臂
+    keywords: X349-09不锈钢铜缸液压直臂
+    description: X349-09不锈钢铜缸液压直臂
+    image: x349-09
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x358-07.html"
+  data:
+    name: X358-07不锈钢液压大弯
+    title: X358-07不锈钢液压大弯
+    keywords: X358-07不锈钢液压大弯
+    description: X358-07不锈钢液压大弯
+    image: x358-07
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x358-08.html"
+  data:
+    name: X358-08不锈钢液压中弯
+    title: X358-08不锈钢液压中弯
+    keywords: X358-08不锈钢液压中弯
+    description: X358-08不锈钢液压中弯
+    image: x358-08
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x358-09.html"
+  data:
+    name: X358-09不锈钢液压直臂
+    title: X358-09不锈钢液压直臂
+    keywords: X358-09不锈钢液压直臂
+    description: X358-09不锈钢液压直臂
+    image: x358-09
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x368-07.html"
+  data:
+    name: X368-07大弯
+    title: X368-07大弯
+    keywords: X368-07大弯
+    description: X368-07大弯
+    image: x368-07
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x368-08.html"
+  data:
+    name: X368-08中弯
+    title: X368-08中弯
+    keywords: X368-08中弯
+    description: X368-08中弯
+    image: x368-08
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x368-09.html"
+  data:
+    name: X368-09直臂
+    title: X368-09直臂
+    keywords: X368-09直臂
+    description: X368-09直臂
+    image: x368-09
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x378-07.html"
+  data:
+    name: X378-07大弯
+    title: X378-07大弯
+    keywords: X378-07大弯
+    description: X378-07大弯
+    image: x378-07
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x378-08.html"
+  data:
+    name: X378-08中弯
+    title: X378-08中弯
+    keywords: X378-08中弯
+    description: X378-08中弯
+    image: x378-08
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x378-09.html"
+  data:
+    name: X378-09直臂
+    title: X378-09直臂
+    keywords: X378-09直臂
+    description: X378-09直臂
+    image: x378-09
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x388-07.html"
+  data:
+    name: X388-07液压大弯
+    title: X388-07液压大弯
+    keywords: X388-07液压大弯
+    description: X388-07液压大弯
+    image: x388-07
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x388-08.html"
+  data:
+    name: X388-08液压中弯
+    title: X388-08液压中弯
+    keywords: X388-08液压中弯
+    description: X388-08液压中弯
+    image: x388-08
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x388-09.html"
+  data:
+    name: X388-09液压直臂
+    title: X388-09液压直臂
+    keywords: X388-09液压直臂
+    description: X388-09液压直臂
+    image: x388-09
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x398-07.html"
+  data:
+    name: X398-07液压大弯
+    title: X398-07液压大弯
+    keywords: X398-07液压大弯
+    description: X398-07液压大弯
+    image: x398-07
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x398-08.html"
+  data:
+    name: X398-08液压中弯
+    title: X398-08液压中弯
+    keywords: X398-08液压中弯
+    description: X398-08液压中弯
+    image: x398-08
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x398-09.html"
+  data:
+    name: X398-09液压直臂
+    title: X398-09液压直臂
+    keywords: X398-09液压直臂
+    description: X398-09液压直臂
+    image: x398-09
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x329-07.html"
+  data:
+    name: X329-07液压大弯
+    title: X329-07液压大弯
+    keywords: X329-07液压大弯
+    description: X329-07液压大弯
+    image: x329-07
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x329-08.html"
+  data:
+    name: X329-08液压中弯
+    title: X329-08液压中弯
+    keywords: X329-08液压中弯
+    description: X329-08液压中弯
+    image: x329-08
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x329-09.html"
+  data:
+    name: X329-09液压直臂
+    title: X329-09液压直臂
+    keywords: X329-09液压直臂
+    description: X329-09液压直臂
+    image: x329-09
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
     recommendations:
       - X4012两节导轨
 
@@ -4026,15 +6886,18 @@
       - X4605三节导轨
 
 
-- filename: "/products/x6311.html"
+- filename: "/products/x4502.html"
   data:
-    name: X6311钢拉丝门吸
-    title: X6311钢拉丝门吸
-    keywords: X6311钢拉丝门吸
-    description: X6311钢拉丝门吸
-    image: x6311
+    name: X
+    title: X
+    keywords: X
+    description: X
+    image: x
     filter:
+      - 门锁配套
       - 家具五金
+      - 门控五金
+      - 卫浴五金
       - 小区
       - 洋房
       - 别墅
@@ -4042,20 +6905,29 @@
       - 商业地铺
       - 办公楼
       - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
       - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
     recommendations:
       - X4012两节导轨
 
 
-- filename: "/products/x6688.html"
+- filename: "/products/x4210.html"
   data:
-    name: X6688不锈钢门吸
-    title: X6688不锈钢门吸
-    keywords: X6688不锈钢门吸
-    description: X6688不锈钢门吸
-    image: x6688
+    name: X4210
+    title: X4210
+    keywords: X4210
+    description: X4210
+    image: x4210
     filter:
+      - 门锁配套
       - 家具五金
+      - 门控五金
+      - 卫浴五金
       - 小区
       - 洋房
       - 别墅
@@ -4063,115 +6935,1143 @@
       - 商业地铺
       - 办公楼
       - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
       - 锌合金
-    recommendations:
-      - X4012两节导轨
-
-
-
-- filename: "/products/xm8128.html"
-  data:
-    name: XM8128地弹簧
-    title: XM8128地弹簧
-    keywords: XM8128地弹簧
-    description: XM8128地弹簧
-    image: xm8128
-    filter:
-      - 门控五金
-      - 宾馆
-      - 商业地铺
-      - 办公楼
-      - 现代简约
-      - 冷轧刚
-    recommendations:
-      - X4012两节导轨
-
-
-- filename: "/products/xm8148.html"
-  data:
-    name: XM8148地弹簧
-    title: XM8148地弹簧
-    keywords: XM8148地弹簧
-    description: XM8148地弹簧
-    image: xm8148
-    filter:
-      - 门控五金
-      - 宾馆
-      - 商业地铺
-      - 办公楼
-      - 现代简约
-      - 冷轧刚
-    recommendations:
-      - X4012两节导轨
-
-
-- filename: "/products/xm8153.html"
-  data:
-    name: XM8153定位闭门器
-    title: XM8153定位闭门器
-    keywords: XM8153定位闭门器
-    description: XM8153定位闭门器
-    image: xm8153
-    filter:
-      - 门控五金
-      - 宾馆
-      - 商业地铺
-      - 办公楼
-      - 现代简约
+      - 不锈钢
       - 太空铝
-    recommendations:
-      - X4012两节导轨
-
-
-- filename: "/products/xm8168.html"
-  data:
-    name: XM8168地弹簧
-    title: XM8168地弹簧
-    keywords: XM8168地弹簧
-    description: XM8168地弹簧
-    image: xm8168
-    filter:
-      - 门控五金
-      - 宾馆
-      - 商业地铺
-      - 办公楼
-      - 现代简约
       - 冷轧刚
     recommendations:
       - X4012两节导轨
 
 
-- filename: "/products/xm8173.html"
+- filename: "/products/x4012.html"
   data:
-    name: XM8173定位闭门器
-    title: XM8173定位闭门器
-    keywords: XM8173定位闭门器
-    description: XM8173定位闭门器
-    image: xm8173
+    name: X4012
+    title: X4012
+    keywords: X4012
+    description: X4012
+    image: x4012
     filter:
+      - 门锁配套
+      - 家具五金
       - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
       - 宾馆
       - 商业地铺
       - 办公楼
       - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
       - 太空铝
+      - 冷轧刚
     recommendations:
       - X4012两节导轨
 
 
-- filename: "/products/xm8180.html"
+- filename: "/products/xbg14.html"
   data:
-    name: XM8180地弹簧
-    title: XM8180地弹簧
-    keywords: XM8180地弹簧
-    description: XM8180地弹簧
-    image: xm8180
+    name: XBG14衣通管
+    title: XBG14衣通管
+    keywords: XBG14衣通管
+    description: XBG14衣通管
+    image: xbg14
     filter:
+      - 门锁配套
+      - 家具五金
       - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
       - 宾馆
       - 商业地铺
       - 办公楼
       - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6216.html"
+  data:
+    name: X6216衣通座
+    title: X6216衣通座
+    keywords: X6216衣通座
+    description: X6216衣通座
+    image: x6216
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6025.html"
+  data:
+    name: X6025法兰
+    title: X6025法兰
+    keywords: X6025法兰
+    description: X6025法兰
+    image: x6025
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x0001.html"
+  data:
+    name: X0001层板托
+    title: X0001层板托
+    keywords: X0001层板托
+    description: X0001层板托
+    image: x0001
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x7011.html"
+  data:
+    name: X7011支撑
+    title: X7011支撑
+    keywords: X7011支撑
+    description: X7011支撑
+    image: x7011
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x7850.html"
+  data:
+    name: X7850广告钉
+    title: X7850广告钉
+    keywords: X7850广告钉
+    description: X7850广告钉
+    image: x7850
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x7050.html"
+  data:
+    name: X7050砂银柜脚
+    title: X7050砂银柜脚
+    keywords: X7050砂银柜脚
+    description: X7050
+    image: x
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x070a.html"
+  data:
+    name: X070A裤架(淡黄色)
+    title: X070A裤架(淡黄色)
+    keywords: X070A裤架(淡黄色)
+    description: X070A裤架(淡黄色)
+    image: x070a
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x080a.html"
+  data:
+    name: X080A裤架(香槟色)
+    title: X080A裤架(香槟色)
+    keywords: X080A裤架(香槟色)
+    description: X080A裤架(香槟色)
+    image: x080a
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6008.html"
+  data:
+    name: X6008防盗链
+    title: X6008防盗链
+    keywords: X6008防盗链
+    description: X6008防盗链
+    image: x6008
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6018.html"
+  data:
+    name: X6018猫眼Φ14 Φ16 Φ28
+    title: X6018猫眼Φ14 Φ16 Φ28
+    keywords: X6018猫眼Φ14 Φ16 Φ28
+    description: X6018猫眼Φ14 Φ16 Φ28
+    image: x6018
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6017.html"
+  data:
+    name: X6017插销6" 8" 10"
+    title: X6017插销6" 8" 10"
+    keywords: X6017插销6" 8" 10"
+    description: X6017插销6" 8" 10"
+    image: x6017
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6020.html"
+  data:
+    name: X6020插销6" 8" 10"
+    title: X6020插销6" 8" 10"
+    keywords: X6020插销6" 8" 10"
+    description: X6020插销6" 8" 10"
+    image: x6020
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6022.html"
+  data:
+    name: X6022防尘筒
+    title: X6022防尘筒
+    keywords: X6022防尘筒
+    description: X6022防尘筒
+    image: x6022
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/x6059.html"
+  data:
+    name: X6059暗门铰275/375/425
+    title: X6059暗门铰275/375/425
+    keywords: X6059暗门铰275/375/425
+    description: X6059暗门铰275/375/425
+    image: x6059
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xbg10.html"
+  data:
+    name: XBG10伸缩衣通管(砂金/砂银/60-110cm)
+    title: XBG10伸缩衣通管(砂金/砂银/60-110cm)
+    keywords: XBG10伸缩衣通管(砂金/砂银/60-110cm)
+    description: XBG10伸缩衣通管(砂金/砂银/60-110cm)
+    image: xbg10
+    filter:
+      - 门锁配套
+      - 家具五金
+      - 门控五金
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9301.html"
+  data:
+    name: XW9301活动浴巾架
+    title: XW9301活动浴巾架
+    keywords: XW9301活动浴巾架
+    description: XW9301活动浴巾架
+    image: xw9301
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9303.html"
+  data:
+    name: XW9303纸巾架
+    title: XW9303纸巾架
+    keywords: XW9303纸巾架
+    description: XW9303纸巾架
+    image: xw9303
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9308.html"
+  data:
+    name: XW9308角篮
+    title: XW9308角篮
+    keywords: XW9308角篮
+    description: XW9308角篮
+    image: xw9308
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9302.html"
+  data:
+    name: XW9302毛巾杆
+    title: XW9302毛巾杆
+    keywords: XW9302毛巾杆
+    description: XW9302毛巾杆
+    image: xw9302
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9305.html"
+  data:
+    name: XW9305活动浴巾架
+    title: XW9305活动浴巾架
+    keywords: XW9305活动浴巾架
+    description: XW9305活动浴巾架
+    image: xw9305
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9304.html"
+  data:
+    name: XW9304马桶刷杯
+    title: XW9304马桶刷杯
+    keywords: XW9304马桶刷杯
+    description: XW9304马桶刷杯
+    image: xw9304
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9309.html"
+  data:
+    name: XW9309双层角篮
+    title: XW9309双层角篮
+    keywords: XW9309双层角篮
+    description: XW9309双层角篮
+    image: xw9309
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9701.html"
+  data:
+    name: XW9701浴巾架
+    title: XW9701浴巾架
+    keywords: XW9701浴巾架
+    description: XW9701浴巾架
+    image: xw9701
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9702.html"
+  data:
+    name: XW9702毛巾架
+    title: XW9702毛巾架
+    keywords: XW9702毛巾架
+    description: XW9702毛巾架
+    image: xw9702
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9705.html"
+  data:
+    name: XW9705浴巾架
+    title: XW9705浴巾架
+    keywords: XW9705浴巾架
+    description: XW9705浴巾架
+    image: xw9705
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9703.html"
+  data:
+    name: XW9703纸巾架
+    title: XW9703纸巾架
+    keywords: XW9703纸巾架
+    description: XW9703纸巾架
+    image: xw9703
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9704.html"
+  data:
+    name: XW9704马桶刷杯
+    title: XW9704马桶刷杯
+    keywords: XW9704马桶刷杯
+    description: XW9704马桶刷杯
+    image: xw9704
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9901.html"
+  data:
+    name: XW9901浴巾架
+    title: XW9901浴巾架
+    keywords: XW9901浴巾架
+    description: XW9901浴巾架
+    image: xw9901
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9902.html"
+  data:
+    name: XW9902毛巾架
+    title: XW9902毛巾架
+    keywords: XW9902毛巾架
+    description: XW9902毛巾架
+    image: xw9902
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9905.html"
+  data:
+    name: XW9905浴巾架
+    title: XW9905浴巾架
+    keywords: XW9905浴巾架
+    description: XW9905浴巾架
+    image: xw9905
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9903.html"
+  data:
+    name: XW9903纸巾架
+    title: XW9903纸巾架
+    keywords: XW9903纸巾架
+    description: XW9903纸巾架
+    image: xw9903
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9904.html"
+  data:
+    name: XW9904马桶刷杯
+    title: XW9904马桶刷杯
+    keywords: XW9904马桶刷杯
+    description: XW9904马桶刷杯
+    image: xw9904
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9908.html"
+  data:
+    name: XW9908角篮
+    title: XW9908角篮
+    keywords: XW9908角篮
+    description: XW9908角篮
+    image: xw9908
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9909.html"
+  data:
+    name: XW9909双层角篮
+    title: XW9909双层角篮
+    keywords: XW9909双层角篮
+    description: XW9909双层角篮
+    image: xw9909
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9085.html"
+  data:
+    name: XW9085不锈钢地漏
+    title: XW9085不锈钢地漏
+    keywords: XW9085不锈钢地漏
+    description: XW9085不锈钢地漏
+    image: xw9085
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9086.html"
+  data:
+    name: XW9086不锈钢地漏
+    title: XW9086不锈钢地漏
+    keywords: XW9086不锈钢地漏
+    description: XW9086不锈钢地漏
+    image: xw9086
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9087.html"
+  data:
+    name: XW9087不锈钢地漏
+    title: XW9087不锈钢地漏
+    keywords: XW9087不锈钢地漏
+    description: XW9087不锈钢地漏
+    image: xw9087
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9089.html"
+  data:
+    name: XW9089不锈钢地漏
+    title: XW9089不锈钢地漏
+    keywords: XW9089不锈钢地漏
+    description: XW9089不锈钢地漏
+    image: xw9089
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
       - 冷轧刚
     recommendations:
       - X4012两节导轨
@@ -4186,24 +8086,33 @@
     image: xw9098
     filter:
       - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
       - 宾馆
       - 商业地铺
       - 办公楼
       - 现代简约
+      - 中式仿古
+      - 欧式奢华
       - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
     recommendations:
       - X4012两节导轨
 
 
-- filename: "/products/xy208-99a.html"
+- filename: "/products/xw9063.html"
   data:
-    name: XY208-99A枪间金门锁
-    title: XY208-99A枪间金门锁
-    keywords: XY208-99A枪间金门锁
-    description: XY208-99A枪间金门锁
-    image: xy208-99a
+    name: XW9063纸巾盒
+    title: XW9063纸巾盒
+    keywords: XW9063纸巾盒
+    description: XW9063纸巾盒
+    image: xw9063
     filter:
-      - 门锁配套
+      - 卫浴五金
       - 小区
       - 洋房
       - 别墅
@@ -4211,20 +8120,26 @@
       - 商业地铺
       - 办公楼
       - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
       - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
     recommendations:
       - X4012两节导轨
 
 
-- filename: "/products/xy208-99g.html"
+- filename: "/products/xw9310.html"
   data:
-    name: XY208-99G钢拉丝门锁
-    title: XY208-99G钢拉丝门锁
-    keywords: XY208-99G钢拉丝门锁
-    description: XY208-99G钢拉丝门锁
-    image: xy208-99g
+    name: XW9310纸巾盒
+    title: XW9310纸巾盒
+    keywords: XW9310纸巾盒
+    description: XW9310纸巾盒
+    image: xw9310
     filter:
-      - 门锁配套
+      - 卫浴五金
       - 小区
       - 洋房
       - 别墅
@@ -4232,44 +8147,148 @@
       - 商业地铺
       - 办公楼
       - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
       - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
     recommendations:
       - X4012两节导轨
 
 
-- filename: "/products/xy239-67h.html"
+- filename: "/products/xw9055.html"
   data:
-    name: XY239-67H金拉丝门锁
-    title: XY239-67H金拉丝门锁
-    keywords: XY239-67H金拉丝门锁
-    description: XY239-67H金拉丝门锁
-    image: xy239-67h
+    name: XW9055晾衣绳
+    title: XW9055晾衣绳
+    keywords: XW9055晾衣绳
+    description: XW9055晾衣绳
+    image: xw9055
     filter:
-      - 门锁配套
+      - 卫浴五金
       - 小区
       - 洋房
       - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
       - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
       - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
     recommendations:
       - X4012两节导轨
 
 
-- filename: "/products/xy256-55g.html"
+- filename: "/products/xw9042.html"
   data:
-    name: XY256-55G钢拉丝门锁
-    title: XY256-55G钢拉丝门锁
-    keywords: XY256-55G钢拉丝门锁
-    description: XY256-55G钢拉丝门锁
-    image: xy256-55g
+    name: XW9042扶手
+    title: XW9042扶手
+    keywords: XW9042扶手
+    description: XW9042扶手
+    image: xw9042
     filter:
-      - 门锁配套
+      - 卫浴五金
       - 小区
       - 洋房
       - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
       - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
       - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
     recommendations:
       - X4012两节导轨
 
+
+- filename: "/products/xw9052.html"
+  data:
+    name: XW9052扶手
+    title: XW9052扶手
+    keywords: XW9052扶手
+    description: XW9052扶手
+    image: xw9052
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9002.html"
+  data:
+    name: XW9002衣钩
+    title: XW9002衣钩
+    keywords: XW9002衣钩
+    description: XW9002衣钩
+    image: xw9002
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
+
+
+- filename: "/products/xw9012.html"
+  data:
+    name: XW9012衣钩
+    title: XW9012衣钩
+    keywords: XW9012衣钩
+    description: XW9012衣钩
+    image: xw9012
+    filter:
+      - 卫浴五金
+      - 小区
+      - 洋房
+      - 别墅
+      - 宾馆
+      - 商业地铺
+      - 办公楼
+      - 现代简约
+      - 中式仿古
+      - 欧式奢华
+      - 纯铜
+      - 锌合金
+      - 不锈钢
+      - 太空铝
+      - 冷轧刚
+    recommendations:
+      - X4012两节导轨
 
