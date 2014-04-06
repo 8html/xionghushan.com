@@ -2,17 +2,6 @@
 layout: default.hbs
 ---
 <div class="spl">
-  <div class="spl-left">
-    {{#eachProperty nav}}
-    <div class="spl-nav">
-      <h3 class="spl-nav-header">{{key}}</h3>
-      {{#eachProperty value}}
-        <a class="spl-nav-item{{#compare ../../permalink '==' value}} active{{/compare}}" href="{{get value}}">{{key}}</a>
-      {{/eachProperty}}
-    </div>
-    {{/eachProperty}}
-  </div>
-  <div class="spl-right">
     <div class="bread hr-bg">
       当前位置：
       <a href="/">首页</a>
@@ -21,5 +10,4 @@ layout: default.hbs
     <div class="spl-content content">
       {{>body}}
     </div>
-  </div>
 </div>
