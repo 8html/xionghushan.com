@@ -137,8 +137,12 @@ module.exports = function(grunt) {
       grunt: {
         files: [ 'Gruntfile.js' ]
       },
+      pages: {
+        files: [ 'pages/*.hbs' ],
+        tasks: [ 'assemble:site' ]
+      },
       hbs: {
-        files: [ 'layouts/*.hbs', 'pages/*.hbs', 'helpers/*' ],
+        files: [ 'layouts/*.hbs', 'helpers/*' ],
         tasks: [ 'assemble' ]
       },
       news: {
