@@ -1,5 +1,22 @@
 $(function() {
   FastClick.attach(document.body);
+
+
+  var menu = $('.menu');
+  var menuDropdown = $('.menu-dropdown')
+  if (menu.length === 1 && menuDropdown.length === 1) {
+    menu.find('.menu-item').hover(function() {
+      var index = $(this).index('.menu-item') + 1;
+      menuDropdown.find('.mdown').addClass('hidden');
+      var child = menuDropdown.find('.mdown-'+index);
+      child.removeClass('hidden');
+      $(this).parent().parent()[(child.length>0?'add':'remove')+'Class']('hassubmenu');
+    }, function() {
+
+    });
+  }
+
+
   function makeBottomFooter() {
     var totalTopHeight = 0;
     $('.height-top').each(function(){

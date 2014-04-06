@@ -138,12 +138,8 @@ module.exports = function(grunt) {
         files: [ 'Gruntfile.js' ]
       },
       pages: {
-        files: [ 'pages/*.hbs' ],
+        files: [ 'pages/*.hbs', 'layouts/*.hbs', 'helpers/*' ],
         tasks: [ 'assemble:site' ]
-      },
-      hbs: {
-        files: [ 'layouts/*.hbs', 'helpers/*' ],
-        tasks: [ 'assemble' ]
       },
       news: {
         files: [ 'posts/news/**' ],
