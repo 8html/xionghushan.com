@@ -88,7 +88,7 @@ module.exports = function(grunt) {
           products: grunt.file.readYAML('posts/products.yml')
         },
         prettify: {
-          unformatted: [ 'a', 'sub', 'sup', 'b', 'i', 'u', 'textarea', 'pre' ]
+          unformatted: [ 'br', 'img', 'a', 'sub', 'sup', 'b', 'i', 'u', 'textarea', 'pre' ]
         }
       },
       news: {

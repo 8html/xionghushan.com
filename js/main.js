@@ -6,13 +6,39 @@ $(function() {
   var menuDropdown = $('.menu-dropdown')
   if (menu.length === 1 && menuDropdown.length === 1) {
     menu.find('.menu-item').hover(function() {
+      menu.find('a.active').removeClass('active').addClass('activeitem');
       var index = $(this).index('.menu-item') + 1;
       menuDropdown.find('.mdown').addClass('hidden');
       var child = menuDropdown.find('.mdown-'+index);
       child.removeClass('hidden');
       $(this).parent().parent()[(child.length>0?'add':'remove')+'Class']('hassubmenu');
+      var width = 0, left = 0, max = child.width();
+      child.find('a').each(function(a, b) {
+        width += $(b).width();
+      });
+      var menuitemleft = Math.floor($(this).position().left + ($(this).width() - width) / 2);
+      if (menuitemleft < 0) {
+        menuitemleft = 0;
+      } else if (menuitemleft + width > max) {
+        menuitemleft = max - width;
+      }
+      child.find('a:first').css({'margin-left': menuitemleft});
     }, function() {
-
+      menu.find('a.activeitem').removeClass('activeitem').addClass('active');
+      menuDropdown.find('.mdown').addClass('hidden');
+      $(this).parent().parent().removeClass('hassubmenu');
+    });
+    menuDropdown.find('.mdown').hover(function() {
+      var index = +(/mdown-(\d+)/.exec($(this).attr('class'))[1]);
+      menu.find('a.active').removeClass('active').addClass('activeitem');
+      menu.find('a').eq(index - 1).addClass('hover');
+      $(this).removeClass('hidden');
+      $(this).parent().prev().addClass('hassubmenu');
+    }, function() {
+      menu.find('a.activeitem').removeClass('activeitem').addClass('active');
+      menu.find('a').removeClass('hover');
+      menuDropdown.find('.mdown').addClass('hidden');
+      $(this).parent().prev().removeClass('hassubmenu');
     });
   }
 
