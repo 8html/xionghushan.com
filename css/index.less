@@ -2,6 +2,9 @@
 @import (less) "vendor/sliderkit.css";
 @import (less) "vendor/magnific-popup.css";
 
+body {
+  font-family: "微软雅黑", "Microsoft YaHei", "宋体", "新宋体", "SongTi";
+}
 
 .clearfix {
   clear: both;
@@ -70,9 +73,13 @@
   margin: 25px 10px 0 0;
 }
 
+.btop {
+  border-top: 1px solid #ccc;
+}
+
 .pa {
   position: relative;
-  @height: 400px;
+  @height: 460px;
   height: @height;
   overflow: hidden;
   .pa-left, .pa-right {
@@ -140,6 +147,12 @@ background-position: 0 0;
 
 .container {
   max-width: 978px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ccontainer {
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -220,6 +233,7 @@ background-position: 0 0;
       display: block;
       width: (100% / 7);
       height: @height;
+      overflow: hidden;
     }
     a {
       display: block;
@@ -298,7 +312,6 @@ background-position: 0 0;
 .line {
   background: url(images/line.png) no-repeat center top;
   height: 25px;
-  margin-top: -22px;
   text-align: center;
   padding: 7px 75px 0px;
   color: #ACACA5;
