@@ -83,6 +83,7 @@ module.exports = function(grunt) {
         helpers: [ 'handlebars-helper-prettify', 'helpers/helpers.js' ],
         layoutdir: 'layouts',
         layout: 'default.hbs',
+        partials: [ 'partials/*' ],
         production: false,
         posts: {
           products: grunt.file.readYAML('posts/products.yml')

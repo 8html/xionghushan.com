@@ -15,74 +15,15 @@
 
 <body>
   <div class="header height-top">
-    <div class="container relative">
-      <a href="/" class="logo" title="熊虎山">
-        <img alt="熊虎山" src="/images/xionghushan-logo.png">
-      </a>
-      <div class="header-tel">
-        免费招商热线：4006-020-198
-      </div>
-    </div>
+    {{>header}}
   </div>
   <div class="container main height-top">
-    <div class="menu-container">
-      <div class="menu">
-        <div class="menu-item none-if-mobile"><a {{{navLinkTo "/"}}}>首页</a></div>
-        <div class="menu-item"><a {{{navLinkTo "/about/"}}}>关于熊虎山</a></div>
-        <div class="menu-item"><a {{{navLinkTo "/products/"}}}>产品中心</a></div>
-        <div class="menu-item"><a {{{navLinkTo "/join/"}}}>招商加盟</a></div>
-        <div class="menu-split"></div>
-        <div class="menu-item"><a {{{navLinkTo "/projects/"}}}>工程咨询</a></div>
-        <div class="menu-item"><a {{{navLinkTo "/news/"}}}>五金资讯</a></div>
-        <div class="menu-item"><a {{{navLinkTo "/contact/"}}}>联系我们</a></div>
-      </div>
-    </div>
-    <div class="menu-dropdown">
-      <div class="mdown mdown-2 hidden">
-        <a href="/about/"><img alt="公司简介" src="/images/home/about.jpg"><br>公司简介</a>
-        <a href="/history/"><img alt="企业历史" src="/images/home/about.jpg"><br>企业历史</a>
-        <a href="/culture/"><img alt="企业文化" src="/images/home/about.jpg"><br>企业文化</a>
-        <a href="/honors/"><img alt="企业荣誉" src="/images/home/small-honors.jpg"><br>企业荣誉</a>
-      </div>
-      <div class="mdown mdown-4 hidden">
-        <a href="/join/"><img alt="加盟流程" src="/images/home/about.jpg"><br>加盟流程</a>
-        <a href="/qualifications/"><img alt="加盟条件" src="/images/home/about.jpg"><br>加盟条件</a>
-        <a href="/advantages/"><img alt="加盟优势" src="/images/home/about.jpg"><br>加盟优势</a>
-        <a href="/stores/"><img alt="加盟店展示" src="/images/home/about.jpg"><br>加盟店展示</a>
-      </div>
-      <div class="mdown mdown-5 hidden">
-        <a href="/projects/"><img alt="工程案例" src="/images/home/about.jpg"><br>工程案例</a>
-        <a href="/offer/"><img alt="工程报价" src="/images/home/about.jpg"><br>工程报价</a>
-      </div>
-      <div class="mdown mdown-6 hidden">
-        <a href="/news/company/"><img alt="企业资讯" src="/images/home/small-company.jpg"><br>企业资讯</a>
-        <a href="/news/industry/"><img alt="行业资讯" src="/images/home/small-industry.jpg"><br>行业资讯</a>
-      </div>
-      <div class="mdown mdown-7 hidden">
-        <a href="/contact/"><img alt="联系我们" src="/images/home/small-contact.jpg"><br>联系我们</a>
-        <a href="/jobs/"><img alt="招聘信息" src="/images/home/small-jobs.jpg"><br>招聘信息</a>
-      </div>
-    </div>
-    <div class="menu-placeholder"></div>
+    {{>menu}}
     {{>body}}
   </div>
   <div id="height-padding"></div>
   <div class="footer height-bottom">
-    <div class="container">
-      <div class="footer-right">
-        <a class="lang lang-weixin social-media" href="/images/weixin.png" title="扫描QR码关注官方微信账号">官方微信账号</a>
-        <a class="lang lang-en" href="/" title="English">English</a>
-        <a class="lang lang-zh" href="/" title="简体中文">中文</a>
-        <div class="clearfix"></div>
-      </div>
-      <div class="footer-copy">
-        &copy; 1990-2014 佛山市顺德区熊虎山五金实业有限公司
-        <a href="/law/">法律声明</a>
-        <a class="none-if-mobile" href="http://www.xionghushan.com/Sitemap.xml">Sitemap</a><br>
-        <a class="none-if-mobile beian" href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备11062274号-1</a>
-        网站建设与维护：<a href="http://www.8html.com/" target="_blank">8HTML</a>
-      </div>
-    </div>
+    {{>footer}}
   </div>
 </body>
 </html>
